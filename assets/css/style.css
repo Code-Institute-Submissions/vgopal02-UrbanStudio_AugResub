@@ -67,3 +67,32 @@ h3{font-family: Raleway, sans-serif;
 
 	}
 }
+
+/* Social Media links */
+
+.social-networks {
+	text-align: center;
+
+}
+
+.social-networks li {
+	display: inline;
+}
+
+.social-networks i {
+	font-size: 150%;
+	margin: 1%;
+	color: rgb(75, 94, 42);
+}
+
+
+/* Social Media Links - Mobile Responsive */
+@media (max-width: 500px) {
+
+
+	.social-networks i {
+		font-size: 100%;
+		margin: 1%;
+		color: rgb(75, 94, 42);
+	}
+}
