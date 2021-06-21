@@ -184,3 +184,101 @@ input[type=checkbox],
 		margin: 2px 0;
 	}
 }
+
+/* Hero-image and Cover Text*/
+
+.hero-image {
+	background-image: url('../images/hero-img.jpg');
+	height: 600px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+#cover-text {
+	background-color: rgba(221, 6, 53, 0.507);
+	height: 14%;
+	width: 50%;
+	position: absolute;
+	top: 600px;
+	font-family: Dancing Script, sans-serif;
+	color: rgb(239, 243, 239);
+	font-size: 190%;
+	text-align: center;
+
+
+}
+
+/*Hero-Image and Cover Text - Mobile responsive*/
+@media screen and (max-width:1200px) {
+	#cover-text {
+		text-align: center;
+		font-size: 500%;
+		height: 8%;
+
+
+
+
+	}
+}
+
+@media screen and (max-width:1200px) {
+	#cover-text {
+		text-align: center;
+		font-size: 130%;
+		height: 8%;
+		top: 600px;
+
+
+
+	}
+
+
+@media screen and (max-width:700px) {
+	#cover-text {
+		text-align: center;
+		font-size: 90%;
+		height: 14%;
+		top: 620px;
+		padding: 0;
+	}
+
+}
+
+
+
+	@media screen and (max-width:600px) {
+		#cover-text {
+			text-align: center;
+			font-size: 90%;
+			height: 10%;
+			top: 620px;
+			padding: 0;
+
+		}
+	}
+
+	@media screen and (max-width:500px) {
+		#cover-text {
+			text-align: center;
+			font-size: 60%;
+			height: 6%;
+			top: 620px;
+			padding: 0;
+
+		}
+
+		@media screen and (max-width:350px) {
+			#cover-text {
+				text-align: center;
+				font-size: 55%;
+				height: 7%;
+				top: 620px;
+				padding: 0;
+
+			}
+		}
+	}
+}
