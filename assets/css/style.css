@@ -541,3 +541,27 @@ input[type=checkbox],
   }
 
   
+ 
+
+  /*Footer*/
+
+  footer {
+
+	margin-bottom: 0;
+	padding: 1em;
+	height: 70px;
+	text-align: center;
+	font-family: Raleway, sans-serif;
+	color: rgb(75, 94, 42);
+	background-color: rgb(224, 214, 185);
+  
+	bottom: 0;
+	right: 0;
+	z-index: 3;
+  }
+  
+  footer >p {
+	font-size: 10px;
+	text-align: center;
+  }
+  
