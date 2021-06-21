@@ -364,6 +364,7 @@ input[type=checkbox],
 	font-size: 15px;
 	text-align: center justify;
 	width:100%;
+    
    
    }
 
@@ -372,17 +373,24 @@ input[type=checkbox],
     flex: 50%;
     height:400px;
 	background-color:rgb(245, 218, 223);
+    text-align: justify;
 }
 
 .yoga-right {
     flex: 50%;
 	height:400px;
 	background-color: rgb(202, 209, 190);
+    font-size: 16px;
+    text-align: justify;
+    font-size: 13px;
+    
+
+    
 }
 
 .yoga-right img  {
-	height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   float: left;
 }
 .yoga-center {
@@ -395,15 +403,12 @@ input[type=checkbox],
 
 .contact-us{
 	width: 100px;
-  
 	border: 5px solid #f16c6b;
 	padding: 5px;
 	font-size: 15px;
 	margin-left:45%;
 	margin-bottom:20px;
   
-	
-   
   }
   
   .contact-us a {
