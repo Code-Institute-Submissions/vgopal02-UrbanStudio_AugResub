@@ -493,4 +493,51 @@ input[type=checkbox],
 	}
   }
 
+  /* Meditation Information*/
+
+ .meditation-container{
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 15px;
+	text-align: center justify;
+	width:100%;
+   
+   }
+
+   
+   .meditation-left {
+    flex: 50%;
+    height:400px;
+	background-color:rgb(245, 218, 223);
+}
+
+.meditation-right {
+    flex: 50%;
+	height:400px;
+	background-color: rgb(202, 209, 190);
+}
+
+.meditation-right img  {
+	height: 100px;
+  width: 100px;
+  float: left;
+}
+.meditation-center {
+	
+	height:300px;
+	background-color: rgb(245, 236, 206);
+	flex: 100%;
+
+}
+
+
+/* MeditationInformation - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
+@media (max-width: 800px) {
+
+	.meditation-right,
+	.meditation-left {
+	  flex: 100%;
+	}
+  }
+
   
