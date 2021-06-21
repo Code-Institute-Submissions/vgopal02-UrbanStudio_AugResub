@@ -26,7 +26,8 @@ h2 {
 
 }
 
-h3{font-family: Raleway, sans-serif;
+h3 {
+	font-family: Raleway, sans-serif;
 
 }
 
@@ -128,7 +129,7 @@ input[type=checkbox],
 	background: rgb(214, 210, 188);
 	flex: 1;
 	text-align: center;
-	color:  rgb(75, 94, 42);
+	color: rgb(75, 94, 42);
 	transition: all .2s ease;
 }
 
@@ -139,7 +140,7 @@ input[type=checkbox],
 
 /*styling hover*/
 .navigation li:hover {
-	background:rgb(202, 209, 190);
+	background: rgb(202, 209, 190);
 	flex: 1.1;
 }
 
@@ -147,7 +148,7 @@ input[type=checkbox],
 .navigation li a {
 	display: block;
 	padding: 20px 0;
-	color:rgb(75, 94, 42);
+	color: rgb(75, 94, 42);
 	text-decoration: none;
 }
 
@@ -236,16 +237,16 @@ input[type=checkbox],
 	}
 
 
-@media screen and (max-width:700px) {
-	#cover-text {
-		text-align: center;
-		font-size: 90%;
-		height: 14%;
-		top: 620px;
-		padding: 0;
-	}
+	@media screen and (max-width:700px) {
+		#cover-text {
+			text-align: center;
+			font-size: 90%;
+			height: 14%;
+			top: 620px;
+			padding: 0;
+		}
 
-}
+	}
 
 
 
@@ -283,201 +284,203 @@ input[type=checkbox],
 	}
 }
 
-
 /* About Us Section */
 
-.about-container{
+.about-container {
 	width: 100%;
-	height:300px;
+	height: 300px;
 	border: none;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-   
-   }
-   
-   
-   .about-container > div{
-	 color: black;
-	 background-color: white;
-	 padding: 20px;
-	 display: inline-block;
-	 width: 90%;
-	 height:85%;
-	 text-align: center;
-	 padding:5px;
-	 font-size: 16px;
-	 margin: 20px;
 
-	 text-align: justify;
-   }
+}
 
-   .about-container > h3{
-	   text-align: center;
-   }
 
-   /*About Us - Mobile responsive*/
+.about-container>div {
+	color: black;
+	background-color: white;
+	padding: 20px;
+	display: inline-block;
+	width: 90%;
+	height: 85%;
+	text-align: center;
+	padding: 5px;
+	font-size: 16px;
+	margin: 20px;
 
-   @media screen and (max-width:1200px) {
-	.about-container{
-		height:400px;
-		
-		
+	text-align: justify;
+}
+
+.about-container>h3 {
+	text-align: center;
+}
+
+/*About Us - Mobile responsive*/
+
+@media screen and (max-width:1200px) {
+	.about-container {
+		height: 400px;
+
+
 	}
+
 	@media screen and (max-width:1200px) {
-		.about-container > div{
-			font-size:120%;
-			height:80%;
-			
-			
+		.about-container>div {
+			font-size: 120%;
+			height: 80%;
+
+
 		}
-@media screen and (max-width:800px) {
-	.about-container > div {
-		font-size:100%;
-		height:180px;
-		padding:0;
-		height:90%;
-		
-		
+
+		@media screen and (max-width:800px) {
+			.about-container>div {
+				font-size: 100%;
+				height: 180px;
+				padding: 0;
+				height: 90%;
+
+
+			}
+
+			@media screen and (max-width:500px) {
+				.about-container>div {
+					font-size: 82%;
+					height: 180px;
+					padding: 0;
+					height: 90%;
+					margin-top: 0;
+
+
+
+				}
+			}
+		}
 	}
-	@media screen and (max-width:500px) {
-		.about-container > div {
-			font-size:82%;
-			height:180px;
-			padding:0;
-			height:90%;
-			margin-top:0;
-			
-			
-			
-		}
 }
-   }
-}
-   }
 
-   /* Yoga Information*/
+/* Yoga Information*/
 
-   .yoga-container{
+.yoga-container {
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 15px;
 	text-align: center justify;
-	width:100%;
-    
-   
-   }
+	width: 100%;
 
-   
-   .yoga-left {
-    flex: 50%;
-    height:400px;
-	background-color:rgb(245, 218, 223);
-    text-align: justify;
+}
+
+
+.yoga-left {
+	flex: 50%;
+	height: 400px;
+	background-color: rgb(245, 218, 223);
 }
 
 .yoga-right {
-    flex: 50%;
-	height:400px;
+	flex: 50%;
+	height: 400px;
 	background-color: rgb(202, 209, 190);
-    font-size: 16px;
-    text-align: justify;
-    font-size: 13px;
-    
-
-    
 }
 
-.yoga-right img  {
-  height: 80px;
-  width: 80px;
-  float: left;
+.yoga-right img {
+	height: 70px;
+	width: 70px;
+	float: left;
 }
+
 .yoga-center {
-	
-	height:300px;
+
+	height: 300px;
 	background-color: rgb(245, 236, 206);
 	flex: 100%;
 
 }
 
-.contact-us{
+.contact-us {
 	width: 100px;
+
 	border: 5px solid #f16c6b;
 	padding: 5px;
 	font-size: 15px;
-	margin-left:45%;
-	margin-bottom:20px;
-  
-  }
-  
-  .contact-us a {
-	color:black;
-	font-family:Raleway,sans-serif;
+	margin-left: 45%;
+	margin-bottom: 20px;
+
+
+
+}
+
+.contact-us a {
+	color: black;
+	font-family: Raleway, sans-serif;
 	text-decoration: none;
-  }
-  .contact-us a:hover {
-  
+}
+
+.contact-us a:hover {
+
 	border-bottom: 1px solid red;
-	color:blueviolet;
-  }
+	color: blueviolet;
+}
+
 /* Yoga Information - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
 @media (max-width: 800px) {
 
 	.yoga-right,
 	.yoga-left {
-	  flex: 100%;
+		flex: 100%;
 	}
-  }
+}
 
-  @media (max-width: 800px) {
+@media (max-width: 800px) {
 
 	.table,
 	td,
 	th {
-	  font-size: 8px;
-  
-	}
-  }
+		font-size: 8px;
 
-  @media (max-width: 800px) {
+	}
+}
+
+@media (max-width: 800px) {
 
 	.contact-us {
-		margin-left:32%;
+		margin-left: 32%;
 	}
-  }
- /* Pilates Information*/
+}
 
- .pilates-container{
+/* Pilates Information*/
+
+.pilates-container {
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 15px;
 	text-align: center justify;
-	width:100%;
-   
-   }
+	width: 100%;
 
-   
-   .pilates-left {
-    flex: 50%;
-    height:400px;
-	background-color:rgb(245, 218, 223);
+}
+
+
+.pilates-left {
+	flex: 50%;
+	height: 400px;
+	background-color: rgb(245, 218, 223);
 }
 
 .pilates-right {
-    flex: 50%;
-	height:400px;
+	flex: 50%;
+	height: 400px;
 	background-color: rgb(202, 209, 190);
 }
 
-.pilates-right img  {
+.pilates-right img {
 	height: 80px;
-  width: 120px;
-  float: left;
+	width: 120px;
+	float: left;
 }
+
 .pilates-center {
-	
-	height:300px;
+
+	height: 300px;
 	background-color: rgb(245, 236, 206);
 	flex: 100%;
 
@@ -489,42 +492,43 @@ input[type=checkbox],
 
 	.pilates-right,
 	.pilates-left {
-	  flex: 100%;
+		flex: 100%;
 	}
-  }
+}
 
-  /* Meditation Information*/
+/* Meditation Information*/
 
- .meditation-container{
+.meditation-container {
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 15px;
 	text-align: center justify;
-	width:100%;
-   
-   }
+	width: 100%;
 
-   
-   .meditation-left {
-    flex: 50%;
-    height:400px;
-	background-color:rgb(245, 218, 223);
+}
+
+
+.meditation-left {
+	flex: 50%;
+	height: 400px;
+	background-color: rgb(245, 218, 223);
 }
 
 .meditation-right {
-    flex: 50%;
-	height:400px;
+	flex: 50%;
+	height: 400px;
 	background-color: rgb(202, 209, 190);
 }
 
-.meditation-right img  {
+.meditation-right img {
 	height: 100px;
-  width: 100px;
-  float: left;
+	width: 100px;
+	float: left;
 }
+
 .meditation-center {
-	
-	height:300px;
+
+	height: 300px;
 	background-color: rgb(245, 236, 206);
 	flex: 100%;
 
@@ -536,16 +540,14 @@ input[type=checkbox],
 
 	.meditation-right,
 	.meditation-left {
-	  flex: 100%;
+		flex: 100%;
 	}
-  }
+}
 
-  
- 
+/*Footer*/
 
-  /*Footer*/
+footer {
 
-  footer {
 
 	margin-bottom: 0;
 	padding: 1em;
@@ -554,17 +556,18 @@ input[type=checkbox],
 	font-family: Raleway, sans-serif;
 	color: rgb(75, 94, 42);
 	background-color: rgb(224, 214, 185);
-  
+
 	bottom: 0;
 	right: 0;
 	z-index: 3;
-  }
-  
-  footer >p {
+}
+
+footer>p {
 	font-size: 10px;
 	text-align: center;
-  }
-  
+}
+
+
 
 /* Gallery Page */
 
@@ -855,7 +858,7 @@ input[type=checkbox],
 		}
 	}
 
-	/* Contact Us */
+/* Contact Us */
 
 .input[type=text], [type=email] ,select, textarea {
 	width: 80%;
@@ -946,6 +949,15 @@ input[type=checkbox],
 	font-size:10px;
   }
   
+	
+	 
+	 
+	 
+	  
+	 
+  }
+  
+  
   #submit{
 	width: 100px;
 	border: 5px solid #f16c6b;
@@ -963,3 +975,21 @@ input[type=checkbox],
   
 	border-bottom: 1px solid red;
   }
+
+  /* Scroll Down Arrow*/
+  
+  .scroll-down > p {
+	text-align:center;
+	font-size:50px;
+	color:rgb(75, 94, 42);
+	text-decoration: none;
+
+  }
+  .scroll-down a:hover {
+	color: rgb(75, 94, 42);
+  }
+  
+
+
+
+
