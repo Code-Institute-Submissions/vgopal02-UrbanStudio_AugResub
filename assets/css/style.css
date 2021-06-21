@@ -854,3 +854,112 @@ input[type=checkbox],
 
 		}
 	}
+
+	/* Contact Us */
+
+.input[type=text], [type=email] ,select, textarea {
+	width: 80%;
+	padding: 12px;
+	border: 1px solid black;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize:vertical;
+  }
+  
+  input[type=submit] {
+	margin-top:20px;
+	  border-radius:2px;
+	  padding:15px 32px 15px 32px;
+	  text-align:center;
+	  font-size:100%;
+	  background-color:#f16c6b;
+	  color:#fafafa;
+	  display:block;
+	  width:200px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  /* Create two columns that float next to eachother */
+  .column {
+	float: left;
+	width: 40%;
+	margin-top: 6px;
+	padding: 20px;
+  }
+  
+  .column >p {
+	font-size:20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+  .final{
+	height:200px;
+	width:100%;
+	background-color :yellow;
+  }
+  .final > img{
+	height:10em;
+	width:15%;
+   }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+	.column, input[type=submit] {
+	  width: 80%;
+	  margin-top: 0;
+	}
+  
+  .input[type=text], [type=email] select {
+	width:65%;
+	padding: 12px;
+	border: 1px solid black;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize:vertical;
+  
+   
+  }
+  
+  input[type=submit] {
+	  width:100px;
+	  border-radius:2px;
+	  text-align:center;
+	  font-size:100%;
+	  background-color:#f16c6b;
+	  color:#fafafa;
+	  display:block;
+	  padding-left:25px;
+  
+  }
+  .column >p {
+	font-size:10px;
+  }
+  
+  #submit{
+	width: 100px;
+	border: 5px solid #f16c6b;
+	padding: 10px;
+	margin: 20px;
+	font-size: 30px;
+   
+  }
+  
+  #submit a {
+	color:black;
+	font-family:Raleway,sans-serif;
+  }
+  #submit a:hover {
+  
+	border-bottom: 1px solid red;
+  }
