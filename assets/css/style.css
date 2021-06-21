@@ -96,3 +96,91 @@ h3{font-family: Raleway, sans-serif;
 		color: rgb(75, 94, 42);
 	}
 }
+
+/* Navigation Bar*/
+
+/*hiding label and checkbox*/
+input[type=checkbox],
+.show-menu {
+	display: none;
+}
+
+
+
+/*styling our wrapper*/
+.wrapper {
+	max-width: 100%;
+	margin: 0 auto;
+	color: rgb(75, 94, 42);
+	font-family: Raleway, sans-serif;
+}
+
+
+
+/*styling navigation*/
+.navigation {
+	display: flex;
+	list-style-type: none;
+}
+
+/*styling list items->li in navigation*/
+.navigation li {
+	background: rgb(214, 210, 188);
+	flex: 1;
+	text-align: center;
+	color:  rgb(75, 94, 42);
+	transition: all .2s ease;
+}
+
+/*giving border left to all list items, but not to our first list item*/
+.navigation li:not(:first-child) {
+	border-left: 2px solid white;
+}
+
+/*styling hover*/
+.navigation li:hover {
+	background:rgb(202, 209, 190);
+	flex: 1.1;
+}
+
+/*styling our anchor tag*/
+.navigation li a {
+	display: block;
+	padding: 20px 0;
+	color:rgb(75, 94, 42);
+	text-decoration: none;
+}
+
+/* Navigation Bar - Mobile Responsiveness */
+
+@media screen and (max-width:600px) {
+
+	/*styling our show menu button*/
+	.show-menu {
+		background: rgb(202, 209, 190);
+		display: flex;
+		cursor: pointer;
+		padding: 20px 0;
+		justify-content: center;
+	}
+
+	/*hiding our navigation*/
+	.navigation {
+		display: none;
+	}
+
+	/*displaying our list items as block element; if checkbox is check*/
+	input[type=checkbox]:checked~.navigation {
+		display: block;
+	}
+
+	/*removing border left from the pseudo class*/
+	.navigation li:not(:first-child) {
+		border: 0;
+	}
+
+	/*giving margin to list item, excluding last list item*/
+	.navigation li:not(:last-child) {
+		margin: 2px 0;
+	}
+}
