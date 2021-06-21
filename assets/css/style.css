@@ -355,3 +355,89 @@ input[type=checkbox],
    }
 }
    }
+
+   /* Yoga Information*/
+
+   .yoga-container{
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 15px;
+	text-align: center justify;
+	width:100%;
+   
+   }
+
+   
+   .yoga-left {
+    flex: 50%;
+    height:400px;
+	background-color:rgb(245, 218, 223);
+}
+
+.yoga-right {
+    flex: 50%;
+	height:400px;
+	background-color: rgb(202, 209, 190);
+}
+
+.yoga-right img  {
+	height: 70px;
+  width: 70px;
+  float: left;
+}
+.yoga-center {
+	
+	height:300px;
+	background-color: rgb(245, 236, 206);
+	flex: 100%;
+
+}
+
+.contact-us{
+	width: 100px;
+  
+	border: 5px solid #f16c6b;
+	padding: 5px;
+	font-size: 15px;
+	margin-left:45%;
+	margin-bottom:20px;
+  
+	
+   
+  }
+  
+  .contact-us a {
+	color:black;
+	font-family:Raleway,sans-serif;
+	text-decoration: none;
+  }
+  .contact-us a:hover {
+  
+	border-bottom: 1px solid red;
+	color:blueviolet;
+  }
+/* Yoga Information - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
+@media (max-width: 800px) {
+
+	.yoga-right,
+	.yoga-left {
+	  flex: 100%;
+	}
+  }
+
+  @media (max-width: 800px) {
+
+	.table,
+	td,
+	th {
+	  font-size: 8px;
+  
+	}
+  }
+
+  @media (max-width: 800px) {
+
+	.contact-us {
+		margin-left:32%;
+	}
+  }
