@@ -550,6 +550,16 @@ flex: 100%;
 
 }
 
+.meditation-intro{
+	height:100px;
+	flex: 100%;
+	
+	
+	}
+	
+	.meditation-intro > p{
+		text-align: center;
+	}
 
 .meditation-left {
 	flex: 50%;
@@ -584,6 +594,11 @@ flex: 100%;
 	.meditation-right,
 	.meditation-left {
 		flex: 100%;
+	}
+
+	.meditation-intro > p{
+		text-align: justify;
+		font-size: 13px;
 	}
 }
 
