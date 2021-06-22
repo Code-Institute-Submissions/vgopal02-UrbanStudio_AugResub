@@ -359,6 +359,21 @@ input[type=checkbox],
 	}
 }
 
+
+/* Scroll Down Arrow*/
+  
+.scroll-down > p {
+	text-align:center;
+	font-size:50px;
+	color:rgb(75, 94, 42);
+	text-decoration: none;
+
+  }
+  .scroll-down a:hover {
+	color: rgb(75, 94, 42);
+  }
+  
+
 /* Yoga Information*/
 
 .yoga-container {
@@ -886,7 +901,7 @@ footer>p {
 		}
 	}
 
-/* Contact Us */
+/* Contact Us Page*/
 
 .input[type=text], [type=email] ,select, textarea {
 	width: 80%;
@@ -908,13 +923,6 @@ footer>p {
 	  display:block;
 	  width:200px;
   }
-  
-  
-  
-  
-  
-  
-  
   
   /* Create two columns that float next to eachother */
   .column {
@@ -975,13 +983,7 @@ footer>p {
   }
   .column >p {
 	font-size:10px;
-  }
-  
-	
-	 
-	 
-	 
-	  
+  } 
 	 
   }
   
@@ -1004,20 +1006,7 @@ footer>p {
 	border-bottom: 1px solid red;
   }
 
-  /* Scroll Down Arrow*/
   
-  .scroll-down > p {
-	text-align:center;
-	font-size:50px;
-	color:rgb(75, 94, 42);
-	text-decoration: none;
-
-  }
-  .scroll-down a:hover {
-	color: rgb(75, 94, 42);
-  }
-  
-
 
 
 
