@@ -365,12 +365,21 @@ input[type=checkbox],
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 15px;
-	text-align: center justify;
+	text-align: justify;
 	width: 100%;
 
 }
 
+.yoga-intro{
+height:100px;
+flex: 100%;
 
+
+}
+
+.yoga-intro > p{
+	text-align: center;
+}
 .yoga-left {
 	flex: 50%;
 	height: 400px;
@@ -428,6 +437,11 @@ input[type=checkbox],
 	.yoga-right,
 	.yoga-left {
 		flex: 100%;
+	}
+
+	.yoga-intro > p{
+		text-align: justify;
+		font-size: 13px;
 	}
 }
 
