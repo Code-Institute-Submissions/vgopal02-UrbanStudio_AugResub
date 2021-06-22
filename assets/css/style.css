@@ -468,11 +468,21 @@ flex: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 15px;
-	text-align: center justify;
+	text-align: justify;
 	width: 100%;
 
 }
 
+.pilates-intro{
+	height:100px;
+	flex: 100%;
+	
+	
+	}
+	
+	.pilates-intro > p{
+		text-align: center;
+	}
 
 .pilates-left {
 	flex: 50%;
@@ -507,6 +517,10 @@ flex: 100%;
 	.pilates-right,
 	.pilates-left {
 		flex: 100%;
+	}
+	.pilates-intro > p{
+		text-align: justify;
+		font-size: 13px;
 	}
 }
 
