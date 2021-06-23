@@ -88,3 +88,40 @@ From the onset the site was designed to be mobile responsive as most users were 
 
 - The nav bar was redesigned to fit the small screen as a hamburger menu. Code for this was inspired by ou Tube Video by Arcode code.
 - The image gallery and contact us section was redesinged to fit the smaller screen in a single column .
+
+
+
+## Wire Frames 
+
+All wireframes were created using Balsamiq
+<br />
+<br />
+Site Map
+<br />
+<br />
+<img src="readme/images/wf_site-map.png" alt="Site Map Wire Frame" width="300" height="400"/>
+<br />
+<br />
+Home Page - Full Screen & Mobile Responsive
+<br />
+<br />
+<p float="left">
+  <img src="readme/images/wf_home.png" alt="Home Page Wire Frame" width="300" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="readme/images/wf_home_mr.png" alt="Home Page Wire Frame" width="200" height="400"/>
+</p>
+<br />
+Gallery Page
+<br />
+<br />
+<p float="left">
+  <img src="readme/images/wf_gallery.png" alt="Gallery Page Wire Frame" width="300" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Wire Frame" width="200" height="400"/>
+</p>
+<br />
+Contact Us
+<br />
+<br />
+<p float="left">
+  <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="300" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
+</p>
