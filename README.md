@@ -125,3 +125,36 @@ Contact Us
   <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="300" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
 </p>
+
+
+## Site Design
+The site has been designed keeping immdiate future growth in mind - which is to add more information content.
+
+- A consistent header / footer approach makes it easy for the end user to be able to maintain information only without changing the layout.
+- The nav bar is robust enough to add more elements as the site grows without having to change design.
+- Site may be self-managed if only basic content and images need to be changed . In such a situation the client will have to be trained.
+
+
+## Setup
+The site was developed using gitpod and hosted on github.
+
+## Testing and Code Validation
+
+### HTML Code 
+- It was validated using W3C MarkUp Validation service by direct input. 
+- There were 2 warnings indicated in Nav Bar and Hero Image section
+
+"Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections."
+
+- Both were resolved.
+
+
+### CSS Code 
+- The code was found to be clean.
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
