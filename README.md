@@ -23,3 +23,7 @@
 -	TYPE OF SITE - B2C
 - AUDIENCE - Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. 
 -	WEBSITE CONTENT: Types of Classes , Class TimeTables , Visual Image Gallery and Contact Us section for user to be able to show more interest or ask any specific query.
+
+## Technologies Used
+- HTML 
+- CSS
