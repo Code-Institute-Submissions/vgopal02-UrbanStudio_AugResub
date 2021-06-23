@@ -62,3 +62,29 @@ brand logo so it cannot be missed.
 ##### RESPONSIVE SITE 
 
 - The site has been designed to have the same visual appeal on both large screen (desktop/laptop) and smaller (mobile screens).
+
+
+## User Experience 
+
+- URBAN STUDIO uses the website to appeal to the user as a WARM, TRENDY AND SOPHISTICATED environment
+
+- BRAND USP: Balance. Breathe  - Well advertised as text on image so the user does not miss it.
+
+- ONE CLICK AWAY : The site has a simple nav bar on each page which allows the user to navigate the whole site . Within the home page there are consistent links to relevant page(s) like
+contact us so user does not need to scroll back up the page . 
+
+#### Visual appeal 
+ One of the most important factors of UX . Visual appeal is based on combination of the following:
+
+- Images : The site classy images to promote the studio as a warm and welcoming yet trendy studio.All images were sourced from https://www.pexels.com and https://www.unsplash.com
+- Fonts  : The fonts have been chosen to reflect a smart , professional organisation yet not corporate in nature. Raleway ( Headers) Josefin ( Body) Dancing Script - https://fonts.google.com/
+- Colors : Colors were inspired by the brand logo ( tree of life) and  color palletes obtained from https://www.colorcombos.com
+<img src="readme/images/wf_color.png" alt="image of color combination" width="200" height="100"/>
+</br>
+ Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
+
+#### Responsive Site 
+From the onset the site was designed to be mobile responsive as most users were more likely to use smaller devices to find information about the studio. 
+
+- The nav bar was redesigned to fit the small screen as a hamburger menu. Code for this was inspired by ou Tube Video by Arcode code.
+- The image gallery and contact us section was redesinged to fit the smaller screen in a single column .
