@@ -158,3 +158,72 @@ The site was developed using gitpod and hosted on github.
             alt="Valid CSS!" />
     </a>
 </p>
+
+
+## Limitations and Future of the site
+- In its current form the site serves the purpose as defined by the organistion - which is to provide and promote to users  information about the organisation's activities .
+
+Limitations 
+- The lack of technology does not allow the site to be interactive.
+
+Future
+
+However this can be considered as a first step for the organisation. In future with more advanced technology the site can be further developed as:
+- Phase 2 : Adding an interactive time-table and allowing the form to submit information to a database
+- Phase 3 : Adding a backend database allowing users to be able to book  and cancel classes online
+- Phase 4 : Allowing the user to be able to make payment for classes after booking.
+
+
+## Acknowledgements
+
+### Inspiring Websites:
+- https://www.yogajournal.com/
+- https://www.yogahaven.co.uk/
+- https://www.yogahub.co.uk/
+- https://moirahartigan.github.io/Ms1-Schools-Out-Childcare/
+- https://kairosity.github.io/milestone-project-1-cv-website/#home-section
+- https://constantinadrian.github.io/Caterpillar_Montessori_MS_1/index.html
+
+### Wire Frames 
+-The project started with a simple hand sketched wireframe. 
+
+-The final site map and wireframes were created using Balsamiq
+
+### Coding
+- Hamburger Nav Bar : 
+   You Tube Video by Arcode code - Hamburger Type Responsive Menu Navigation Only HTML and CSS Tutorial
+
+- W3C Schools website : For extra HTML /CSS guidance
+
+### Visual Appeal
+- Brand Logo : Tree of life - google images
+
+- Fonts : Google Fonts 
+
+- Images: All images were sourced from https://www.pexels.com and https://www.unsplash.com
+
+- Fontawesome : for all font images
+
+- Screen Shots : http://ami.responsivedesign.is/
+
+- Color Scheme : http://www.colorcombos.com
+
+### Code Validation
+
+- HTML Validation: https://validator.w3.org/
+- CSS Validation :https://jigsaw.w3.org/
+
+
+### Mentor Guidance
+- I would like thank my mentor Medale Oluwafemi for his valuable time and guidance in giving constructive feedback to further improve the site and its features through all stages of site design and devlopment.
+
+
+
+
+
+
+
+## Contact
+- Created by [Vidya Rajeev](vgopal02@yahoo.com) - feel free to contact me!
+
+
