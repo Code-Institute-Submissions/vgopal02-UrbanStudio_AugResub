@@ -128,7 +128,7 @@ Contact Us
 
 
 ## Site Design
-The site has been designed keeping immdiate future growth in mind - which is to add more information content.
+The site has been designed keeping immediate future growth in mind - which is to add more information content.
 
 - A consistent header / footer approach makes it easy for the end user to be able to maintain information only without changing the layout.
 - The nav bar is robust enough to add more elements as the site grows without having to change design.
@@ -158,6 +158,11 @@ The site was developed using gitpod and hosted on github.
             alt="Valid CSS!" />
     </a>
 </p>
+
+### Site Testing
+
+- The site was tested over different browsers ( eg : Chrome , Safari).
+- The site was also tested over multiple global locations as download speeds vary and while it may not be necessary for the curent site  which is small, it is good practise as the site evolves and grows.
 
 
 ## Limitations and Future of the site
