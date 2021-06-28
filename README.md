@@ -19,18 +19,39 @@
         -   ### Design
     -   #### Colour Scheme
        <p>Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).</p>
-       <br/>
         <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
         <br/>
         <p>Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);</p>
 
     -   #### Typography
-        -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .This has been added to enhance the welcome image while conveying the brand USP.
+        -   All headers are in Raleway. Josefin is the main font used throughout the website.Sans Serif is the fallback font in case either fonts are not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.This has been added to enhance the welcome image while conveying the brand USP.
 
     -   #### Imagery
-        -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.
+        -   Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.
 
+-  ### Wireframes 
+    
+    -   #### Site Map
+        <p float="left">
+        <img src="readme/images/wf_site-map.png" alt="Home Page Wire Frame" width="400" height="400"/>
 
+    -  #### Home
+        <p float="left">
+        <img src="readme/images/wf_home.png" alt="Home Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_home_mr.png" alt="Home Page Wire Frame" width="200" height="400"/>
+        </p>
+
+    -  #### Gallery
+        <p float="left">
+        <img src="readme/images/wf_gallery.png" alt="Gallery Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Wire Frame" width="200" height="400"/>
+        </p>
+
+    -  #### Contact Us
+        <p float="left">
+        <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
+        </p>
 
 
 
