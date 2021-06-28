@@ -90,7 +90,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   #### Gallery Page - gallery.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
 
--   #### COntact Us Page - contact.html
+-   #### Contact Us Page - contact.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### CSS - style.css
