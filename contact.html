@@ -17,123 +17,146 @@
 </head>
 
 <body>
+    <!-- Logo and Header Section -->
 
     <header>
         <img src="assets/images/logo.png" alt="tree of life logo" class="logo-image">
         <a href="index.html" style="text-decoration: none;">
             <h1 id="logo">Urban Studio</h1>
         </a>
+
+        <!-- Social Media Section -->
+
         <ul class="social-networks">
-            <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="facebook"><i class="fab fa-facebook"></i></a>
+            <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="facebook"><i
+                        class="fab fa-facebook"></i></a>
             </li>
             <li><a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="twitter"><i
                         class="fab fa-twitter-square"></i></a></li>
             <li><a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="youtube"><i
                         class="fab fa-youtube-square"></i></a></li>
-            <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="instagram"><i class="fab fa-instagram"></i></a>
+            <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="instagram"><i
+                        class="fab fa-instagram"></i></a>
             </li>
         </ul>
     </header>
-    
     <br>
 
-    
-        <div class="wrapper">
-            <label for="show-menu" class="show-menu"><i class="fas fa-bars"></i></label>
-            <input type="checkbox" id="show-menu">
-            <ul class="navigation">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
+    <!-- Navigation Bar Section-->
 
-            </ul>
+    <div class="wrapper">
+        <label for="show-menu" class="show-menu"><i class="fas fa-bars"></i></label>
+        <input type="checkbox" id="show-menu">
+        <ul class="navigation">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </div>
 
-        </div>
-   
     <br>
     <br>
+
+    <!-- Join Us Section-->
+
     <h2>Contact Us</h2>
-    
     <br>
-    <br>
+    <div class="contact-container">
+        <div class="contact-left">
+            <br>
+            <h2>Join Us !</h2>
+                <br>
+                <br>
+                <form>
+                    <label for="fname">First Name</label>
+                    <br>
+                    <input type="text" id="fname" name="firstname" placeholder="First Name" class="input" required>
+                    <br>
+                    <label for="lname">Last Name</label>
+                    <br>
+                    <input type="text" id="lname" name="lastname" placeholder="Last Name" class="input" required>
+                    <br>
+                    <label for="email">Email</label>
+                    <br>
+                    <input type="email" id="email" name="email" placeholder="Email" class="input" required>
+                    <br>
+                    <label for="mob">Contact Number</label>
+                    <br>
+                    <input type="text" id="mob" name="mob" placeholder="Contact Number" class="input">
+                    <br>
+                    <label for="mob"><strong>Interested in :</strong></label>
+                    <br>
+                    <br>
+                    <label>Yoga</label>
+                    <input id="yoga" type="radio" name="activity" value="yoga" required>&nbsp;&nbsp;&nbsp;
+                    <label>Pilates</label>
+                    <input id="pilates" type="radio" name="activity" value="pilates">&nbsp;&nbsp;&nbsp;
+                    <label>Meditation</label>
+                    <input id="meditation" type="radio" name="activity" value="meditation">
+                    <br>
+                    <br>
+                    <textarea id="subject" name="subject" placeholder="Any other query .."
+                        style="height:170px"></textarea>
 
-    <div class="column input">
-        <form method="post" >
-            <label for="fname">First Name</label>
-            <br>
-            <input type="text" id="fname" name="firstname" placeholder="First Name" class="input" required>
-            <br>
-            <label for="lname">Last Name</label>
-            <br>
-            <input type="text" id="lname" name="lastname" placeholder="Last Name" class="input" required>
-            <br>
-            <label for="email">Email</label>
-            <br>
-            <input type="email" id="email" name="email" placeholder="Email" class="input" required>
-            <br>
-            <label for="mob">Contact Number</label>
-            <br>
-            <input type="text" id="mob" name="mob" placeholder="Contact Number" class="input">
-            <br>
-            <label >Yoga</label>
-            <input id="yoga" type="radio" name="activity" value="yoga" required>
-            <label >Pilates</label>
-            <input id="pilates" type="radio" name="activity" value="pilates">
-            <label >Meditation</label>
-            <input id="meditation" type="radio" name="activity" value="meditation">
+                    <input type="submit" value="Submit">
 
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
-            
-                <input type="submit" value="Submit">
-       
-        </form>
+                </form>
+        </div>
+
+        <!-- How to find Us Section-->
+
+        <div class="contact-right">
+            <br>
+            <h2>How to find Us</h2>
+            <br>
+            <br>
+            <img src="assets/images/map_contact.jpg" alt="google map showing location of studio" style="width:70%">
+            <br>
+            <br>
+            <br>
+            <p> <strong>Urban Studio </strong><br>221 Clapham High Street <br>SW18 9TR</p>
+            <br>
+            <p> <strong>Phone and Mobile Contact</strong><br> 0208 313 6756 <br> 0777654349</p>
+            <br>
+            <p> <strong>Studio Open Times</strong><br> 06:30-20:00 hrs </p>
+            <br>
+            <p style="color:red;"> <strong>HOW TO REACH US</strong><br> </p>
+            <br>
+
+            <p> <strong>By Tube : </strong> Clapham Junction (700 mts away) </p>
+            <br>
+            <p> <strong>By Car : </strong>GPS Coordinates :SW18 9TR. <br><br>*Dedicated carpark for the Studio and
+                patrons.<br> </p>
+        </div>
     </div>
-
-<div class="row">
-    <div class="column">
-        <img src="assets/images/map_contact.jpg"  alt="google map showing location of studio" style="width:50%">
-        <br>
-        <br>
-        <br>
-        <p> <strong>Urban Studio </strong><br>221 Clapham High Street <br>SW18 9TR</p>
-        <br>
-        <p> <strong>Phone and Mobile Contact</strong><br> 0208 313 6756 <br> 0777654349</p>
-        <br>
-        <p> <strong>Studio Open Times</strong><br> 06:30-20:00 hrs </p>
-        <br>
-        <p style="color:red;" > <strong>HOW TO REACH US</strong><br>  </p>
-        <br>
-
-        <p> <strong>By Tube : </strong> Clapham Junction (700 mts away) </p>
-        <br>
-        <p> <strong>By Car : </strong>GPS Coordinates :SW18 9TR. <br><br>*There is a dedicated carpark for the Studio and its patrons.<br>  </p>
-    </div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<footer>
-    <h6> Urban Studio 221 Clapham High Street SW18 9TR</h6>
-    <h6> Ph : 0208 313 6756 / 0777654349</h6>
-    <h6> Studio Open Times: 06:30-20:00 hrs </h6>
     <br>
-    <p>Copyright © Urban Studio 2021</p>
-    <p>This site has been developed for educational purposes only</p>
-</footer>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+     <!-- Footer -->
 
-<script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
+    <footer>
+        <h6> Urban Studio 221 Clapham High Street SW18 9TR</h6>
+        <h6> Ph : 0208 313 6756 / 0777654349</h6>
+        <h6> Studio Open Times: 06:30-20:00 hrs </h6>
+        <br>
+        <p>Copyright © Urban Studio 2021</p>
+        <p>This site has been developed for educational purposes only</p>
+    </footer>
+
+     <!-- Fontawesome script -->
+     
+    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 
 </body>
+
 </html>
