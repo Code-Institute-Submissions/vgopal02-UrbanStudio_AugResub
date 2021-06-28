@@ -18,7 +18,7 @@
 
         -   ### Design
     -   #### Colour Scheme
-       Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
+       <p>Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).</p>
        <br/>
         <img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300" img align="center"/>
         <br>
