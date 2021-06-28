@@ -1,6 +1,8 @@
+/* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
+/* General Style */
 * {
 	margin: 0;
 	padding: 0;
@@ -11,8 +13,6 @@ body {
 	font-family: Josefin, sans-serif;
 	font-weight: 200;
 	color: #3a3a3a;
-
-
 }
 
 h1,
@@ -23,15 +23,15 @@ h2 {
 	color: rgb(75, 94, 42);
 	text-align: center;
 	text-transform: uppercase;
-
 }
 
 h3 {
 	font-family: Raleway, sans-serif;
-
 }
 
-/* Logo & Header Style */
+/* HOME PAGE */
+
+/* Logo and Header Section */
 
 .logo-image {
 	display: block;
@@ -40,16 +40,14 @@ h3 {
 	width: 70px;
 	height: 70px;
 	padding-top: 5px;
-
 }
 
 #logo {
 	text-align: center;
 	font-size: 300%;
-
 }
 
-/* Logo & Header style - Mobile responsive */
+/*  Logo and Header Section - Mobile responsive */
 
 @media screen and (max-width:500px) {
 	.logo-image {
@@ -59,21 +57,25 @@ h3 {
 		width: 50px;
 		height: 50px;
 		padding-top: 3px;
-
 	}
 
 	#logo {
 		text-align: center;
 		font-size: 200%;
+	}
 
+	@media screen and (max-width:280px) {
+		#logo {
+			text-align: center;
+			font-size: 130%;
+		}
 	}
 }
 
-/* Social Media links */
+/* Social Media Section */
 
 .social-networks {
 	text-align: center;
-
 }
 
 .social-networks li {
@@ -86,10 +88,8 @@ h3 {
 	color: rgb(75, 94, 42);
 }
 
-
-/* Social Media Links - Mobile Responsive */
+/* Social Media Section - Mobile responsive */
 @media (max-width: 500px) {
-
 
 	.social-networks i {
 		font-size: 100%;
@@ -98,15 +98,13 @@ h3 {
 	}
 }
 
-/* Navigation Bar*/
+/*  Navigation Bar Section */
 
 /*hiding label and checkbox*/
 input[type=checkbox],
 .show-menu {
 	display: none;
 }
-
-
 
 /*styling our wrapper*/
 .wrapper {
@@ -115,8 +113,6 @@ input[type=checkbox],
 	color: rgb(75, 94, 42);
 	font-family: Raleway, sans-serif;
 }
-
-
 
 /*styling navigation*/
 .navigation {
@@ -152,7 +148,7 @@ input[type=checkbox],
 	text-decoration: none;
 }
 
-/* Navigation Bar - Mobile Responsiveness */
+/* Navigation Bar Section - Mobile responsive */
 
 @media screen and (max-width:600px) {
 
@@ -186,7 +182,7 @@ input[type=checkbox],
 	}
 }
 
-/* Hero-image and Cover Text*/
+/* Hero-image and Cover Text Section */
 
 .hero-image {
 	background-image: url('../images/hero-img.jpg');
@@ -208,20 +204,16 @@ input[type=checkbox],
 	color: rgb(239, 243, 239);
 	font-size: 190%;
 	text-align: center;
-
-
+	margin-top: 20px;
+	padding-top: 2%;
 }
 
-/*Hero-Image and Cover Text - Mobile responsive*/
+/* Hero-Image and Cover Text Section - Mobile responsive */
 @media screen and (max-width:1200px) {
 	#cover-text {
 		text-align: center;
 		font-size: 500%;
 		height: 8%;
-
-
-
-
 	}
 }
 
@@ -231,11 +223,8 @@ input[type=checkbox],
 		font-size: 130%;
 		height: 8%;
 		top: 600px;
-
-
-
 	}
-
+}
 
 	@media screen and (max-width:700px) {
 		#cover-text {
@@ -243,12 +232,9 @@ input[type=checkbox],
 			font-size: 90%;
 			height: 14%;
 			top: 620px;
-			padding: 0;
+			padding: 2%;
 		}
-
 	}
-
-
 
 	@media screen and (max-width:600px) {
 		#cover-text {
@@ -256,10 +242,11 @@ input[type=checkbox],
 			font-size: 90%;
 			height: 10%;
 			top: 620px;
-			padding: 0;
+			padding: 2%;
 
 		}
 	}
+
 
 	@media screen and (max-width:500px) {
 		#cover-text {
@@ -267,9 +254,10 @@ input[type=checkbox],
 			font-size: 60%;
 			height: 6%;
 			top: 620px;
-			padding: 0;
+			padding: 2%;
 
 		}
+	}
 
 		@media screen and (max-width:350px) {
 			#cover-text {
@@ -277,751 +265,903 @@ input[type=checkbox],
 				font-size: 55%;
 				height: 7%;
 				top: 620px;
-				padding: 0;
-
+				padding: 2%;
 			}
 		}
-	}
-}
 
-/* About Us Section */
+			@media screen and (max-width:280px) {
+				#cover-text {
+					font-size: 40%;
+					height: 4%;
+					padding: 1%;
+				}
+			}
 
-.about-container {
-	width: 100%;
-	height: 300px;
-	border: none;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+				@media screen and (max-width:240px) {
+					#cover-text {
+						font-size: 40%;
+						height: 7%;
+						padding: 1%;
+					}
+				}
+			
+		
 
-}
+		/* Scroll Down Arrow */
 
+		.scroll-down>p {
+			text-align: center;
+			font-size: 50px;
+			color: rgb(75, 94, 42);
+			text-decoration: none;
 
-.about-container>div {
-	color: black;
-	background-color: white;
-	padding: 20px;
-	display: inline-block;
-	width: 90%;
-	height: 85%;
-	text-align: center;
-	padding: 5px;
-	font-size: 16px;
-	margin: 20px;
+		}
 
-	text-align: justify;
-}
+		.scroll-down .fas {
+			color: rgba(221, 6, 53, 0.507);
+		}
 
-.about-container>h3 {
-	text-align: center;
-}
+		.scroll-down a:hover {
+			color: rgb(75, 94, 42);
+		}
 
-/*About Us - Mobile responsive*/
+		/* About Us Section */
 
-@media screen and (max-width:1200px) {
-	.about-container {
-		height: 400px;
+		.about-container {
+			width: 100%;
+			height: 300px;
+			border: none;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
 
-
-	}
-
-	@media screen and (max-width:1200px) {
 		.about-container>div {
-			font-size: 120%;
-			height: 80%;
-
-
+			color: black;
+			background-color: white;
+			padding: 20px;
+			display: inline-block;
+			width: 90%;
+			height: 85%;
+			text-align: center;
+			padding: 5px;
+			font-size: 16px;
+			margin: 20px;
+			text-align: justify;
 		}
 
-		@media screen and (max-width:800px) {
-			.about-container>div {
-				font-size: 100%;
-				height: 180px;
-				padding: 0;
-				height: 90%;
+		.about-container>h3 {
+			text-align: center;
+		}
 
+		/* About Us Section - Mobile responsive */
 
+		@media screen and (max-width:1200px) {
+			.about-container {
+				height: 400px;
 			}
+		}
 
-			@media screen and (max-width:500px) {
+			@media screen and (max-width:1200px) {
 				.about-container>div {
-					font-size: 82%;
-					height: 180px;
-					padding: 0;
-					height: 90%;
-					margin-top: 0;
-
-
-
+					font-size: 120%;
+					height: 80%;
 				}
 			}
-		}
-	}
-}
 
-
-/* Scroll Down Arrow*/
-  
-.scroll-down > p {
-	text-align:center;
-	font-size:50px;
-	color:rgb(75, 94, 42);
-	text-decoration: none;
-
-  }
-  .scroll-down a:hover {
-	color: rgb(75, 94, 42);
-  }
-  
-
-/* Yoga Information*/
-
-.yoga-container {
-	display: flex;
-	flex-wrap: wrap;
-	font-size: 15px;
-	text-align: justify;
-	width: 100%;
-
-}
-
-.yoga-intro{
-height:100px;
-flex: 100%;
-
-
-}
-
-.yoga-intro > p{
-	text-align: center;
-}
-.yoga-left {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(245, 218, 223);
-}
-
-.yoga-right {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(202, 209, 190);
-}
-
-.yoga-right img {
-	height: 70px;
-	width: 70px;
-	float: left;
-}
-
-.yoga-center {
-
-	height: 300px;
-	background-color: rgb(245, 236, 206);
-	flex: 100%;
-
-}
-
-.contact-us {
-	width: 100px;
-
-	border: 5px solid #f16c6b;
-	padding: 5px;
-	font-size: 15px;
-	margin-left: 45%;
-	margin-bottom: 20px;
-
-
-
-}
-
-.contact-us a {
-	color: black;
-	font-family: Raleway, sans-serif;
-	text-decoration: none;
-}
-
-.contact-us a:hover {
-
-	border-bottom: 1px solid red;
-	color: blueviolet;
-}
-
-/* Yoga Information - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
-@media (max-width: 800px) {
-
-	.yoga-right,
-	.yoga-left {
-		flex: 100%;
-	}
-
-	.yoga-intro > p{
-		text-align: justify;
-		font-size: 13px;
-	}
-}
-
-@media (max-width: 800px) {
-
-	.table,
-	td,
-	th {
-		font-size: 8px;
-
-	}
-}
-
-@media (max-width: 800px) {
-
-	.contact-us {
-		margin-left: 32%;
-	}
-}
-
-/* Pilates Information*/
-
-.pilates-container {
-	display: flex;
-	flex-wrap: wrap;
-	font-size: 15px;
-	text-align: justify;
-	width: 100%;
-
-}
-
-.pilates-intro{
-	height:100px;
-	flex: 100%;
-	
-	
-	}
-	
-	.pilates-intro > p{
-		text-align: center;
-	}
-
-.pilates-left {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(245, 218, 223);
-}
-
-.pilates-right {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(202, 209, 190);
-}
-
-.pilates-right img {
-	height: 80px;
-	width: 120px;
-	float: left;
-}
-
-.pilates-center {
-
-	height: 300px;
-	background-color: rgb(245, 236, 206);
-	flex: 100%;
-
-}
-
-
-/* Pilates Information - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
-@media (max-width: 800px) {
-
-	.pilates-right,
-	.pilates-left {
-		flex: 100%;
-	}
-	.pilates-intro > p{
-		text-align: justify;
-		font-size: 13px;
-	}
-}
-
-/* Meditation Information*/
-
-.meditation-container {
-	display: flex;
-	flex-wrap: wrap;
-	font-size: 15px;
-	text-align: justify;
-	width: 100%;
-
-}
-
-.meditation-intro{
-	height:100px;
-	flex: 100%;
-	
-	
-	}
-	
-	.meditation-intro > p{
-		text-align: center;
-	}
-
-.meditation-left {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(245, 218, 223);
-}
-
-.meditation-right {
-	flex: 50%;
-	height: 400px;
-	background-color: rgb(202, 209, 190);
-}
-
-.meditation-right img {
-	height: 100px;
-	width: 100px;
-	float: left;
-}
-
-.meditation-center {
-
-	height: 300px;
-	background-color: rgb(245, 236, 206);
-	flex: 100%;
-
-}
-
-
-/* MeditationInformation - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of contact us button */
-@media (max-width: 800px) {
-
-	.meditation-right,
-	.meditation-left {
-		flex: 100%;
-	}
-
-	.meditation-intro > p{
-		text-align: justify;
-		font-size: 13px;
-	}
-}
-
-/*Footer*/
-
-footer {
-
-
-	margin-bottom: 0;
-	padding: 1em;
-	height: 70px;
-	text-align: center;
-	font-family: Raleway, sans-serif;
-	color: rgb(75, 94, 42);
-	background-color: rgb(224, 214, 185);
-
-	bottom: 0;
-	right: 0;
-	z-index: 3;
-}
-
-footer>p {
-	font-size: 10px;
-	text-align: center;
-}
-
-
-
-/* Gallery Page */
-
-.flex-container {
-	display: flex;
-	flex-direction: row;
-	font-size: 30px;
-	text-align: center;
-
-}
-
-.flex-item-1 {
-
-	padding:3px;
-	flex: 25%;
-}
-
-.flex-item-1>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-2 {
-
-	padding:3px;
-	flex: 25%;
-}
-
-.flex-item-2>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-3 {
-	padding:3px;
-	flex: 25%;
-}
-
-.flex-item-3>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-4 {
-
-	padding: 5px;
-	flex: 25%;
-	
-}
-
-.flex-item-4>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-5 {
-
-	padding: 5px;
-	flex: 25%;
-
-}
-
-.flex-item-5>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-.flex-item-6 {
-
-	padding: 5px;
-	flex: 25%;
-	
-}
-
-.flex-item-6>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-7 {
-
-	padding: 5px;
-	flex: 25%;
-
-}
-
-.flex-item-7>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-8 {
-
-	padding: 5px;
-	flex: 25%;
-	
-}
-
-.flex-item-8>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-.flex-item-9 {
-
-	padding: 5px;
-	flex: 25%;
-}
-
-.flex-item-9>img {
-	width: 310px;
-	height: 250px;
-	margin-top: 50px;
-}
-
-
-/* Responsive layout - makes a one column-layout instead of two-column layout */
-
-
-@media (max-width: 800px) {
-	.flex-container {
-		flex-direction: column;
-	}
-
-	.flex-item-1>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-		
-	}
-
-	.flex-item-2>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	
-	}
-
-	.flex-item-3>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-		
-	}
-
-	.flex-item-4>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-	.flex-item-5>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-	.flex-item-6>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-	.flex-item-7>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-	.flex-item-8>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-	.flex-item-9>img {
-		width: 350px;
-		height: 300px;
-		margin:0;
-	}
-
-
-	@media (max-width: 1200px) {
-
-
-		.flex-item-1>img {
-			width: 250px;
-			height: 200px;
-			
-		}
-
-		.flex-item-2>img {
-			width: 250px;
-			height: 200px;
-			
-		}
-
-		.flex-item-3>img {
-			width: 250px;
-			height: 200px;
-		
-		}
-
-		.flex-item-4>img {
-			width: 250px;
-			height: 200px;
-
-		}
-		.flex-item-5>img {
-			width: 250px;
-			height: 300px;
-		}
-		.flex-item-6>img {
-			width: 250px;
-			height: 300px;
-		}
-		.flex-item-7>img {
-			width: 250px;
-			height: 300px;
-		}
-		.flex-item-8>img {
-			width: 250px;
-			height: 300px;
-		}
-		.flex-item-9>img {
-			width: 250px;
-			height: 300px;
-		}
-		@media (max-width: 350px) {
-			.flex-container {
-				flex-direction: column;
-			}
-
-			.flex-item-1>img {
-				width: 300px;
-				height: 300px;
-				margin:0;
-			}
-
-			.flex-item-2>img {
-				width: 300px;
-				height: 300px;
-				margin:0;
-			}
-
-			.flex-item-3>img {
-				width: 300px;
-				height: 300px;
-				margin:0;
-			}
-
-			.flex-item-4>img {
-				width: 300px;
-				height: 300px;
-				margin:0;
-			}
-				.flex-item-5>img {
-					width: 300px;
-					height: 300px;
-					margin:0;
+				@media screen and (max-width:800px) {
+					.about-container>div {
+						font-size: 100%;
+						height: 180px;
+						padding: 0;
+						height: 90%;
+					}
 				}
-				.flex-item-6>img {
-					width: 300px;
-					height: 300px;
-					margin:0;
+
+					@media screen and (max-width:500px) {
+						.about-container>div {
+							font-size: 82%;
+							height: 180px;
+							padding: 0;
+							height: 90%;
+							margin-top: 0;
+						}
+					}
+
+						@media screen and (max-width:280px) {
+							.about-container>div {
+								font-size: 60%;
+								height: 180px;
+								padding: 0;
+								height: 90%;
+								margin-top: 0;
+							}
+						}
+					
+
+			/* Yoga Information Section */
+
+			.yoga-container {
+				display: flex;
+				flex-wrap: wrap;
+				font-size: 15px;
+				text-align: justify;
+				width: 100%;
+			}
+
+			.yoga-intro {
+				height: 100px;
+				flex: 100%;
+				padding-left: 6px;
+				padding-right: 6px;
+			}
+
+			.yoga-intro>p {
+				text-align: center;
+			}
+
+			.yoga-left {
+				flex: 45%;
+				height: 420px;
+				background-color: rgb(245, 218, 223);
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+
+			.yoga-right {
+				flex: 45%;
+				height: 420px;
+				background-color: rgb(202, 209, 190);
+				padding-left: 10px;
+				padding-right: 10px;
+				font-size: 16px;
+			}
+
+			.yoga-right>img {
+				height: 100px;
+				width: 100px;
+				float: left;
+				margin-right: 10px;
+				border: 2px solid green;
+			}
+
+			.yoga-center {
+				height: 350px;
+				background-color: rgb(245, 236, 206);
+				flex: 100%;
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+
+			.contact-us {
+				width: 100px;
+				border: 5px solid #f16c6b;
+				padding: 5px;
+				font-size: 15px;
+				margin-left: 47%;
+				margin-bottom: 20px;
+				text-align: center;
+			}
+
+			.contact-us a {
+				color: black;
+				font-family: Raleway, sans-serif;
+				text-decoration: none;
+			}
+
+			.contact-us a:hover {
+
+				border-bottom: 1px solid red;
+				color: blueviolet;
+			}
+
+			/* Yoga Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
+
+			@media (max-width: 800px) {
+
+				.yoga-right,
+				.yoga-left {
+					flex: 100%;
+					font-size: 13px;
 				}
-				.flex-item-7>img {
-					width: 300px;
-					height: 300px;
-					margin:0;
+
+				.yoga-intro>p {
+					text-align: justify;
+					font-size: 13px;
 				}
-				.flex-item-8>img {
-					width: 300px;
-					height: 300px;
-					margin:0;
+
+				@media (max-width: 280px) {
+
+					.yoga-right,
+					.yoga-left {
+						font-size: 10px;
+					}
+
+					.yoga-intro>p {
+						text-align: justify;
+						font-size: 10px;
+					}
+
+				}
+
+			}
+
+			/* Yoga , Pilates , Meditation TimeTable Section - Mobile Responsive - adjusts font size and margin of the "Join Us" button */
+
+			@media (max-width: 800px) {
+
+				.table,
+				td,
+				th {
+					font-size: 8px;
+				}
+			}
+
+				@media (max-width: 280px) {
+
+					.table,
+					td,
+					th {
+						font-size: 5px;
+					}
+				}
+
+				@media (max-width: 800px) {
+
+					.contact-us {
+						margin-left: 42%;
+					}
+				}
+
+					@media (max-width: 500px) {
+
+						.contact-us {
+							margin-left: 32%;
+						}
+
+
+					}
 				
-			}
-			.flex-item-9>img {
-				width: 300px;
-				height: 300px;
-				margin:0;
-			}
-			}
+
+				/* Pilates Information Section */
+
+				.pilates-container {
+					display: flex;
+					flex-wrap: wrap;
+					font-size: 15px;
+					text-align: justify;
+					width: 100%;
+				}
+
+				.pilates-intro {
+					height: 100px;
+					flex: 100%;
+					padding-left: 6px;
+					padding-right: 6px;
+				}
+
+				.pilates-intro>p {
+					text-align: center;
+				}
+
+				.pilates-left {
+					flex: 45%;
+					height: 420px;
+					background-color: rgb(245, 218, 223);
+					padding-left: 10px;
+					padding-right: 10px;
+				}
+
+				.pilates-right {
+					flex: 45%;
+					height: 420px;
+					background-color: rgb(202, 209, 190);
+					padding-left: 10px;
+					padding-right: 10px;
+					font-size: 16px;
+				}
+
+				.pilates-right img {
+					height: 100px;
+					width: 100px;
+					float: left;
+					margin-right: 10px;
+					border: 2px solid green;
+				}
+
+				.pilates-center {
+					height: 350px;
+					background-color: rgb(245, 236, 206);
+					flex: 100%;
+					padding-left: 10px;
+					padding-right: 10px;
+				}
+
+				/* Pilates Information Section- Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
+				@media (max-width: 800px) {
+
+					.pilates-right,
+					.pilates-left {
+						flex: 100%;
+						font-size: 13px;
+					}
+
+					.pilates-intro>p {
+						text-align: justify;
+						font-size: 13px;
+					}
+				}
+
+					@media (max-width: 280px) {
+
+						.pilates-right,
+						.pilates-left {
+							font-size: 10px;
+						}
+
+						.pilates-intro>p {
+							text-align: justify;
+							font-size: 10px;
+						}
+
+					}
+				
+
+				/* Meditation Information Section */
+
+				.meditation-container {
+					display: flex;
+					flex-wrap: wrap;
+					font-size: 15px;
+					text-align: justify;
+					width: 100%;
+				}
+
+				.meditation-intro {
+					height: 100px;
+					flex: 100%;
+					padding-left: 6px;
+					padding-right: 6px;
+				}
+
+				.meditation-intro>p {
+					text-align: center;
+				}
+
+				.meditation-left {
+					flex: 45%;
+					height: 420px;
+					background-color: rgb(245, 218, 223);
+					padding-left: 10px;
+					padding-right: 10px;
+				}
+
+				.meditation-right {
+					flex: 45%;
+					height: 420px;
+					background-color: rgb(202, 209, 190);
+					padding-left: 10px;
+					padding-right: 10px;
+					font-size: 16px;
+				}
+
+				.meditation-right img {
+					height: 100px;
+					width: 100px;
+					float: left;
+					margin-right: 10px;
+					border: 2px solid green;
+				}
+
+				.meditation-center {
+					height: 350px;
+					background-color: rgb(245, 236, 206);
+					flex: 100%;
+					padding-left: 10px;
+					padding-right: 10px;
+				}
 
 
-		}
-	}
+				/* Meditation Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
+				@media (max-width: 800px) {
 
-/* Contact Us Page*/
+					.meditation-right,
+					.meditation-left {
+						flex: 100%;
+						font-size: 12px;
+					}
 
-.input[type=text], [type=email] ,select, textarea {
-	width: 80%;
-	padding: 12px;
-	border: 1px solid black;
-	margin-top: 6px;
-	margin-bottom: 16px;
-	resize:vertical;
-  }
-  
-  input[type=submit] {
-	margin-top:20px;
-	  border-radius:2px;
-	  padding:15px 32px 15px 32px;
-	  text-align:center;
-	  font-size:100%;
-	  background-color:#f16c6b;
-	  color:#fafafa;
-	  display:block;
-	  width:200px;
-  }
-  
-  /* Create two columns that float next to eachother */
-  .column {
-	float: left;
-	width: 40%;
-	margin-top: 6px;
-	padding: 20px;
-  }
-  
-  .column >p {
-	font-size:20px;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-	content: "";
-	display: table;
-	clear: both;
-  }
-  .final{
-	height:200px;
-	width:100%;
-	background-color :yellow;
-  }
-  .final > img{
-	height:10em;
-	width:15%;
-   }
-  
-  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-	.column, input[type=submit] {
-	  width: 80%;
-	  margin-top: 0;
-	}
-  
-  .input[type=text], [type=email] select {
-	width:65%;
-	padding: 12px;
-	border: 1px solid black;
-	margin-top: 6px;
-	margin-bottom: 16px;
-	resize:vertical;
-  
-   
-  }
-  
-  input[type=submit] {
-	  width:100px;
-	  border-radius:2px;
-	  text-align:center;
-	  font-size:100%;
-	  background-color:#f16c6b;
-	  color:#fafafa;
-	  display:block;
-	  padding-left:25px;
-  
-  }
-  .column >p {
-	font-size:10px;
-  } 
-	 
-  }
-  
-  
-  #submit{
-	width: 100px;
-	border: 5px solid #f16c6b;
-	padding: 10px;
-	margin: 20px;
-	font-size: 30px;
-   
-  }
-  
-  #submit a {
-	color:black;
-	font-family:Raleway,sans-serif;
-  }
-  #submit a:hover {
-  
-	border-bottom: 1px solid red;
-  }
+					.meditation-intro>p {
+						text-align: justify;
+						font-size: 13px;
 
-  
+					}
+
+					@media (max-width: 280px) {
+
+						.meditation-right,
+						.meditation-left {
+							font-size: 10px;
+						}
+
+						.meditation-intro>p {
+							text-align: justify;
+							font-size: 10px;
+						}
+					}
+				}
+
+				/* Footer */
+
+				footer {
+					margin-bottom: 0;
+					padding: 1em;
+					height: 70px;
+					text-align: center;
+					font-family: Raleway, sans-serif;
+					color: rgb(75, 94, 42);
+					background-color: rgb(224, 214, 185);
+					bottom: 0;
+					right: 0;
+					z-index: 3;
+				}
+
+				footer>p {
+					font-size: 10px;
+					text-align: center;
+				}
+
+				/* Footer - Mobile Responsive */
 
 
+				@media (max-width: 280px) {
 
+					footer {
+						height: 90px;
+					}
+
+				}
+
+				/* GALLERY PAGE */
+
+				/* Image Gallery Section */
+
+				.flex-container {
+					display: flex;
+					flex-direction: row;
+					font-size: 30px;
+					text-align: center;
+				}
+
+				.flex-item-1 {
+					padding: 3px;
+					flex: 25%;
+				}
+
+				.flex-item-1>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-2 {
+
+					padding: 3px;
+					flex: 25%;
+				}
+
+				.flex-item-2>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-3 {
+					padding: 3px;
+					flex: 25%;
+				}
+
+				.flex-item-3>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-4 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-4>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-5 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-5>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-6 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-6>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-7 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-7>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-8 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-8>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+				.flex-item-9 {
+					padding: 5px;
+					flex: 25%;
+				}
+
+				.flex-item-9>img {
+					width: 310px;
+					height: 250px;
+					margin-top: 50px;
+				}
+
+
+				/* Gallery Page - Mobile responsive - makes a one column-layout instead of a two-column layout */
+
+				@media (max-width: 800px) {
+					.flex-container {
+						flex-direction: column;
+					}
+
+					.flex-item-1>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-2>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-3>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-4>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-5>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-6>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-7>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-8>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+
+					.flex-item-9>img {
+						width: 350px;
+						height: 300px;
+						margin: 0;
+					}
+				}
+					@media (max-width: 1200px) {
+
+						.flex-item-1>img {
+							width: 250px;
+							height: 200px;
+						}
+
+						.flex-item-2>img {
+							width: 250px;
+							height: 200px;
+						}
+
+						.flex-item-3>img {
+							width: 250px;
+							height: 200px;
+						}
+
+						.flex-item-4>img {
+							width: 250px;
+							height: 200px;
+						}
+
+						.flex-item-5>img {
+							width: 250px;
+							height: 300px;
+						}
+
+						.flex-item-6>img {
+							width: 250px;
+							height: 300px;
+						}
+
+						.flex-item-7>img {
+							width: 250px;
+							height: 300px;
+						}
+
+						.flex-item-8>img {
+							width: 250px;
+							height: 300px;
+						}
+
+						.flex-item-9>img {
+							width: 250px;
+							height: 300px;
+						}
+					}
+
+						@media (max-width: 350px) {
+							.flex-container {
+								flex-direction: column;
+							}
+
+							.flex-item-1>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-2>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-3>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-4>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-5>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-6>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-7>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-8>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+
+							.flex-item-9>img {
+								width: 300px;
+								height: 300px;
+								margin: 0;
+							}
+						}
+
+							@media (max-width: 280px) {
+
+								.flex-container {
+									flex-direction: column;
+								}
+
+								.flex-item-1>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-2>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-3>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-4>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-5>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-6>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-7>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-8>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+								.flex-item-9>img {
+									width: 200px;
+									height: 200px;
+									margin: 0;
+								}
+
+							}
+						
+					
+
+					/* CONTACT US PAGE */
+
+					.contact-container {
+						display: flex;
+						flex-wrap: wrap;
+						font-size: 15px;
+						text-align: justify;
+						padding-left: 5%;
+						padding-right: 5%;
+						width: 90%;
+					}
+
+					.contact-left {
+						flex: 45%;
+						height: 750px;
+						background-color: rgb(245, 218, 223, 0.4);
+						padding-left: 20px;
+					}
+
+					.contact-right {
+						flex: 45%;
+						height: 750px;
+						background-color: rgb(202, 209, 190, 0.4);
+						font-size: 16px;
+						padding-left: 20px;
+					}
+
+					.contact-right>img {
+						margin-left: 70px;
+						width: 70%;
+					}
+
+					.contact-right>p {
+						margin-left: 70px;
+					}
+
+					.input[type=text],
+					[type=email],
+					select,
+					textarea {
+						width: 80%;
+						padding: 12px;
+						border: 1px solid black;
+						margin-top: 6px;
+						margin-bottom: 16px;
+						resize: vertical;
+					}
+
+					input[type="radio"] {
+						margin-left: 5px;
+					}
+
+					input[type=submit] {
+						margin-top: 20px;
+						border-radius: 2px;
+						padding: 15px 32px 15px 32px;
+						text-align: center;
+						font-size: 100%;
+						background-color: #f16c6b;
+						color: #fafafa;
+						display: block;
+						width: 200px;
+						margin-top: 5px;
+					}
+
+					/* Contact Us Page - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of "How to find us section" */
+
+					@media (max-width: 800px) {
+
+						.contact-right,
+						.contact-left {
+							flex: 100%;
+							font-size: 14px;
+						}
+					
+						.contact-right>img {
+							margin-left: 15px;
+							width: 70%;
+						}
+					
+					
+						.contact-right>p {
+							margin-left: 12px;
+						}
+					}
+
+					@media (max-width: 500px) {
+
+						.contact-right>img {
+							margin-left: 10px;
+						}
+
+						.contact-right>p {
+							margin-left: 10px;
+							margin-right: 10px;
+							font-size: 13px;
+						}
+					}
