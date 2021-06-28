@@ -89,16 +89,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
 
             
-
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site - learn more about the organisation and what services it offers.
 
         1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
       
@@ -115,7 +113,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Firefox and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
 -   Testing was done to ensure that all pages were linking correctly.
 -   Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
 
