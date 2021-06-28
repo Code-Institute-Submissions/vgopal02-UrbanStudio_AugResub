@@ -84,9 +84,16 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
+-   #### Home Page - index.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### Gallery Page - gallery.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### COntact Us Page - contact.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### CSS - style.css
 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
 
             
