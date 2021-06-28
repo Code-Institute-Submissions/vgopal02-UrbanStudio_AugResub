@@ -55,11 +55,6 @@
         </p>
 
 
-
-
-
-
-
 ## Features
 
 -   Responsive on all device sizes
@@ -87,7 +82,37 @@
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 
+## Testing
 
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+
+        1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
+      
+        2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
+        
+        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
+
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        2. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
+        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+   
+### Further Testing
+
+-   The Website was tested on Google Chrome, Firefox and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX.
+-   Testing was done to ensure that all pages were linking correctly.
+-   Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
 
 
 
