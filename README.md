@@ -29,6 +29,37 @@
     -   #### Imagery
         -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
 
+
+-  ### Wireframes 
+    
+    -   #### Site Map
+        <p float="left">
+        <img src="readme/images/wf_site-map.png" alt="Home Page Wire Frame" width="400" height="400"/>
+
+    -  #### Home
+        <p float="left">
+        <img src="readme/images/wf_home.png" alt="Home Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_home_mr.png" alt="Home Page Wire Frame" width="200" height="400"/>
+        </p>
+
+    -  #### Gallery
+        <p float="left">
+        <img src="readme/images/wf_gallery.png" alt="Gallery Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Wire Frame" width="200" height="400"/>
+        </p>
+
+    -  #### Contact Us
+        <p float="left">
+        <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
+        </p>
+
+
+
+
+
+
+
 ## Features
 
 -   Responsive on all device sizes
@@ -54,39 +85,6 @@
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
-
-
-
-
-
-
-
-
-
-
--  ### Wireframes 
-    
-    -   #### Site Map
-        <p float="left">
-        <img src="readme/images/wf_site-map.png" alt="Home Page Wire Frame" width="400" height="400"/>
-
-    -  #### Home
-        <p float="left">
-        <img src="readme/images/wf_home.png" alt="Home Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="readme/images/wf_home_mr.png" alt="Home Page Wire Frame" width="200" height="400"/>
-        </p>
-
-    -  #### Gallery
-        <p float="left">
-        <img src="readme/images/wf_gallery.png" alt="Gallery Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Wire Frame" width="200" height="400"/>
-        </p>
-
-    -  #### Contact Us
-        <p float="left">
-        <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
-        </p>
 
 
 
