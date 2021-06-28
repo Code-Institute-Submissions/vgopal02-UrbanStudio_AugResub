@@ -29,6 +29,41 @@
     -   #### Imagery
         -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
 
+## Features
+
+-   Responsive on all device sizes
+
+-   Interactive elements
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+
+
+
+
+
+
+
+
+
+
 -  ### Wireframes 
     
     -   #### Site Map
