@@ -114,10 +114,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    
 ### Further Testing
 
--   The Website was tested on Google Chrome, Firefox and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
--   Testing was done to ensure that all pages were linking correctly.
--   Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
+1.   The Website was tested on Google Chrome, Firefox and Safari browsers.
+
+2.   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+
+3.   Testing was done to ensure that all pages were linking correctly.
+
+4.   Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
 
 
 ## Deployment
