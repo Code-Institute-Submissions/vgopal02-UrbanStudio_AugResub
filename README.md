@@ -59,8 +59,6 @@
 
 -   Responsive on all device sizes
 
--   Interactive elements
-
 ## Technologies Used
 
 ### Languages Used
@@ -70,15 +68,15 @@
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Google Fonts:](https://fonts.google.com/)
+- [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+- [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+- [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Balsamiq:](https://balsamiq.com/)
+- [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 
@@ -98,29 +96,29 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site - learn more about the organisation and what services it offers.
 
-        1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
+        - Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
       
-        2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
+        - This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
         
-        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
+        - Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        - The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
 
-        2. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
+        - Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
 
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        - On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
    
 ### Further Testing
 
-1.   The Website was tested on Google Chrome, Firefox and Safari browsers.
+-   The Website was tested on Google Chrome, Firefox and Safari browsers.
 
-2.   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
 
-3.   Testing was done to ensure that all pages were linking correctly.
+-  Testing was done to ensure that all pages were linking correctly.
 
-4.   Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
+-  Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
 
 
 ## Deployment
