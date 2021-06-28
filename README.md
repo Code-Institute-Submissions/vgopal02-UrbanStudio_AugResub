@@ -12,7 +12,7 @@
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand learn about the organisation and what it offers.
+        1. As a First Time Visitor, I want to easily understand and learn about the organisation and what it offers.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
@@ -20,12 +20,12 @@
     -   #### Colour Scheme
        Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
        <br>
-        <img src="readme/images/wf_color.png" alt="image of color combination" width="900" height="300" img align="center"/>
+        <img src="readme/images/wf_color.png" alt="image of color combination" width="700" height="300" img align="center"/>
         <br>
         Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
 
     -   #### Typography
-        -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .This has been added enhance the welcome image while conveying the brand USP.
+        -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .This has been added to enhance the welcome image while conveying the brand USP.
 
     -   #### Imagery
         -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.
