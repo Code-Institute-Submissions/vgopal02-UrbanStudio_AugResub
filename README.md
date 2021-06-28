@@ -22,6 +22,7 @@
         <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
         <br/>
          <p> Colors used in the site include</p>
+
         1.  rgb(75, 94, 42)
         2.  rgb(214, 210, 188)
         3.  rgb(202, 209, 190)
@@ -182,9 +183,9 @@ However this can be considered as a first step for the organisation. In future w
 
 ### Media
 
--   All images were sourced from [Pexels](https://www.pexels.com) and [Unsplash] (https://www.unsplash.com)
+-   All images were sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
 
-- Screen Shots were sourced from [AmIresponsive](ami.responsivedesign)
+- Screen Shots were sourced from [AmIresponsive](http://ami.responsivedesign.is/)
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
