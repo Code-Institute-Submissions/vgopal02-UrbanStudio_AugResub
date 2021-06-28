@@ -20,9 +20,9 @@
     -   #### Colour Scheme
        <p>Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).</p>
        <br/>
-        <img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300" img align="center"/>
+        <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300" img align="center"/>
         <br>
-        Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
+        <p>Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);</p>
 
     -   #### Typography
         -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .This has been added to enhance the welcome image while conveying the brand USP.
