@@ -130,22 +130,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    
 ### Further Testing
 
--   The Website was tested on Google Chrome, Firefox and Safari browsers.
+-   The Website has been tested on Google Chrome, Firefox and Safari browsers.
 
--   The website was viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+-   The website has been viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
 
--   The website was also viewed on a variety of different devices through Chrome Developer Tools.
+-   The website has also viewed on a variety of different devices through Chrome Developer Tools.
 
--  Testing was done to ensure that all pages were linking correctly.
+-  Testing has been done to ensure that all pages are linking correctly.
 
--  Friends and family members  across global locations ( US, India, Singpore and UK) were asked to review the site and document any bugs and/or user experience issues.
+-  Friends and family members  across global locations ( US, India, Singpore and UK) have been asked to review the site and document any bugs and/or user experience issues.
 
 
 ## Deployment
 
 ### GitHub Pages
 
-The project was created on gitpod and deployed to GitHub Pages using the following steps...
+The project has been created on gitpod and deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 
@@ -178,20 +178,20 @@ However this can be considered as a first step for the organisation. In future w
 
 ### Code
 
--   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code was modified to better fit my needs using only CSS and to create a hamburger menu which centerd itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
+-   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code has been modified to better fit my needs using only CSS and to create a hamburger menu which centered itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
 
 ### Content
 
--   All content was written by the developer.
+-   All content has been written by the developer.
 
--   Colors for the site were chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green was chosen based on the brand USP 'Balance' while supporting colors were based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+-   Colors for the site has been chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green has been chosen based on the brand USP 'Balance' while supporting colors have been based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
 
 
 ### Media
 
--   All images were sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
+-   All images has been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
 
-- Screen Shots were sourced from [AmIresponsive](http://ami.responsivedesign.is/)
+- Screen Shots has been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
