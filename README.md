@@ -16,7 +16,7 @@
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
--   ### Design
+    -   #### Design
         -   #### Color Scheme
         Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color pallete obtained from [Colorcombos](https://www.colorcombos.com).
         <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
