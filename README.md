@@ -91,7 +91,7 @@
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
 
 -   #### Home Page - index.html
 <img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
