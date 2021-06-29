@@ -178,7 +178,7 @@ However this can be considered as a first step for the organisation. In future w
 
 -   All content was written by the developer.
 
--   Colors for the site were chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green was chosen based on the brand USP 'Balance' while supoorting colors were based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+-   Colors for the site were chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green was chosen based on the brand USP 'Balance' while supporting colors were based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
 
 
 ### Media
