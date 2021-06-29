@@ -2,7 +2,7 @@
 
 [View the live project here.](https://vgopal02.github.io/UrbanStudio/index.html)
 
-<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO. It has opened a studio which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , the site is designed to be accessible on a range on devices , making it easy to navigate for both younger and older potential clients.</p>
+<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO. It has opened a studio which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , as a B2C site it is designed to be accessible on a range on devices , making it easy to navigate for both younger and older potential clients.</p>
 
 <h2 align="center"><img src="readme/images/wf_screenshot1.png" alt="Website Screen Shots" width="700" height="400"></h2>
 
@@ -16,12 +16,12 @@
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
-        -   ### Design
-    -   #### Colour Scheme
-        Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color palletes obtained from [Colorcombos](https://www.colorcombos.com).
+    -   #### Design
+        -   #### Color Scheme
+        Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color pallete obtained from [Colorcombos](https://www.colorcombos.com).
         <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
         <br/>
-         <p> Colors used in the site include</p>
+         <p> Final Colors used in the site include</p>
 
         1.  rgb(75, 94, 42)
         2.  rgb(214, 210, 188)
@@ -30,10 +30,10 @@
         5.  rgb(245, 218, 223) 
         6.  rgb(224, 214, 185) 
 
-    -   #### Typography
+        -   #### Typography
         -   <p style="justify">All headers are in Raleway. Josefin is the main font used throughout the website.Sans Serif is the fallback font in case either fonts are not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.This has been added to enhance the welcome image while conveying the brand USP.</p>
 
-    -   #### Imagery
+        -   #### Imagery
         -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
 
 
@@ -76,15 +76,15 @@
 ### Frameworks, Libraries & Programs Used
 
 - [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
+    - Google fonts has been used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
 - [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    - Font Awesome has been used on all pages throughout the website to add icons for aesthetic and UX purposes.
 - [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Git has been used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub has been used to store the projects code after being pushed from Git.
 - [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq has been used to create the [wireframes](https://github.com/) during the design process.
 
 
 ## Testing
@@ -120,15 +120,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
 
-        2. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
+        2. As the site in its current state is primarily information based - social media is essential. Therefore social media links have been placed at the top to allow users to navigate to them without missing them or having to search for them.
 
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        3. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
+
+        4. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
    
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Firefox and Safari browsers.
 
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+-   The website was viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+
+-   The website was also viewed on a variety of different devices through Chrome Developer Tools.
 
 -  Testing was done to ensure that all pages were linking correctly.
 
