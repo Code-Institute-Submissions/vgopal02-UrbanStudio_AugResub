@@ -38,6 +38,8 @@
 
 
 -  ### Wireframes 
+
+    -<p>Wireframes were created using Balsamiq.</p>
     
     -   #### Site Map
         <p float="left">
@@ -84,7 +86,7 @@
 - [GitHub:](https://github.com/)
     - GitHub has been used to store the projects code after being pushed from Git.
 - [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq has been used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq has been used to create the wireframes during the design process.
 
 
 ## Testing
