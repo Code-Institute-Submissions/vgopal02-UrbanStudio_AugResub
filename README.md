@@ -39,7 +39,7 @@
 
 -  ### Wireframes 
 
-    -<p>Wireframes were created using Balsamiq.</p>
+    <p>Wireframes were created using Balsamiq.</p>
     
     -   #### Site Map
         <p float="left">
