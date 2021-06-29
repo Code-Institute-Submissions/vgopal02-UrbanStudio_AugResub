@@ -189,9 +189,11 @@ However this can be considered as a first step for the organisation. In future w
 
 ### Media
 
--   All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
+-  All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
 
-- Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
+-  Brand Logo (Tree of life) has been sourced from [Google Images](https://images.google.co.uk/)
+
+-  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
