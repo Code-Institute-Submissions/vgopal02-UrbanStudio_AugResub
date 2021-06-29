@@ -118,11 +118,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         
         3. Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
 
-        2. As the site in its current state is primarily information based - social media is essential. Therefore social media links have been placed at the top to allow users to navigate to them without missing them or having to search for them.
+        2. As the site in its current state is primarily information based - social media is essential. Therefore, social media links have been placed at the top to allow users to navigate without having to search for them.
 
         3. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
 
