@@ -2,7 +2,7 @@
 
 [View the live project here.](https://vgopal02.github.io/UrbanStudio/index.html)
 
-<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO. It has opened a studio which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , as a B2C site it is designed to be accessible on a range on devices , making it easy to navigate for both younger and older potential clients.</p>
+<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and retired people - both of whom the studio hopes to appeal to. Therefore , as a B2C site it is designed to be accessible on a range of devices , making it easy to navigate for both younger and older potential clients.</p>
 
 <h2 align="center"><img src="readme/images/wf_screenshot1.png" alt="Website Screen Shots" width="700" height="400"></h2>
 
