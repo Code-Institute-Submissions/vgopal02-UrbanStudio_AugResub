@@ -18,7 +18,7 @@
 
     -   #### Design
         -   #### Color Scheme
-        Colors were inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color pallete obtained from [Colorcombos](https://www.colorcombos.com).
+        Colors have been inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color pallete obtained from [Colorcombos](https://www.colorcombos.com).
         <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
         <br/>
          <p> Final Colors used in the site include</p>
@@ -39,7 +39,7 @@
 
 -  ### Wireframes 
 
-    <p>Wireframes were created using Balsamiq.</p>
+    <p>Wireframes have been created using Balsamiq.</p>
     
     -   #### Site Map
         <p float="left">
@@ -134,7 +134,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 -   The website has been viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
 
--   The website has also viewed on a variety of different devices through Chrome Developer Tools.
+-   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
 
 -  Testing has been done to ensure that all pages are linking correctly.
 
@@ -189,9 +189,9 @@ However this can be considered as a first step for the organisation. In future w
 
 ### Media
 
--   All images has been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
+-   All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
 
-- Screen Shots has been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
+- Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
