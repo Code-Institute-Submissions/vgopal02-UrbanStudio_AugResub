@@ -116,7 +116,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
       
         2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
         
-        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
+        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users that there are more details below the about-us section to which they may go directly.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
@@ -189,11 +189,11 @@ However this can be considered as a first step for the organisation. In future w
 
 ### Media
 
--  All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com)
+-  All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com).
 
--  Brand Logo (Tree of life) has been sourced from [Google Images](https://images.google.co.uk/)
+-  Brand Logo (Tree of life) has been sourced from [Google Images](https://images.google.co.uk/).
 
--  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/)
+-  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/).
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
