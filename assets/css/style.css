@@ -858,32 +858,83 @@ input[type=checkbox],
 /* Footer */
 
 footer {
-	margin-bottom: 0;
+	margin-bottom:0;
 	padding: 1em;
-	height: 70px;
+	height: 120px;
 	text-align: center;
 	font-family: Raleway, sans-serif;
 	color: rgb(75, 94, 42);
-	background-color: rgb(224, 214, 185);
+	background-color: rgb(214, 210, 188);
 	bottom: 0;
 	right: 0;
 	z-index: 3;
 }
 
-footer>p {
-	font-size: 10px;
+footer >p {
+	font-size: 16px;
 	text-align: center;
 }
 
 /* Footer - Mobile Responsive */
 
-@media (max-width: 280px) {
+@media (max-width: 480px) {
 
 	footer {
-		height: 90px;
+		height: 140px;
 	}
 
 }
+
+	@media (max-width: 300px) {
+
+		footer {
+			height: 220px;
+		}
+
+}
+
+/* Yoga / Pilates / Meditation Time Table Section */
+
+.time-table {
+	flex: 45%;
+	height: 400px;
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+
+table {
+	width:100%;	
+}
+
+table, th, td , tr {
+	border: 1px solid black;
+  }
+
+  th, td , tr {
+	  height:50px;
+	  width:50px;
+	  text-align: center;
+	  align-items: center;
+	  justify-content: center;
+  }
+
+  @media (max-width: 300px) {
+	
+	table, th, td ,tr {
+		
+	text-align: left;
+	align-items: center;
+	justify-content: center;
+	height:5px;
+	font-size:16px;
+	width:90%;
+
+    }
+}
+
 
 /* GALLERY PAGE */
 
