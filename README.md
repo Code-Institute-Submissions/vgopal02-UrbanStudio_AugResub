@@ -66,7 +66,42 @@
 - The page is responsive on different device sizes.
 <br>
 <br>
+- ## Yoga Section
 
+<img src="readme/images/yoga _1.png" alt="homepage image" width="513" height="685" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/Yoga_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- In the yoga section the user introduced to the core principle of yoga the studio follows.
+    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - Teachers profiles provides the user the level and experience of guidance they are to receive.
+    - Following which the user is shown a clear weekday and week-end timetable of the yoga classes.
+<br>
+<br>
+
+- ## Pilates Section
+
+<img src="readme/images/pilates_1.png" alt="homepage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/pilates_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- In the pilates section the user introduced to the core principle of pilates the studio follows.
+    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - Teachers profiles provides the user the level and experience of guidance they are to receive.
+    - Following which the user is shown a clear weekday and week-end timetable of the pilatesclasses.
+<br>
+<br>
+
+- ## Meditation Section
+
+<img src="readme/images/meditate_1.png" alt="homepage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/meditate_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- In the meditation section the user introduced to the types of meditation the studio follows.
+    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - Teachers profiles provides the user the level and experience of guidance they are to receive.
+    - Following which the user is shown a clear weekday and week-end timetable of the meditation classes.
+<br>
+<br>
 ## Technologies Used
 
 ### Languages Used
