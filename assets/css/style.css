@@ -721,10 +721,13 @@ input[type=checkbox],
 
 /* Meditation Information Section */
 
+#meditation {
+	margin-top:50px;
+}
+
 .meditation-container {
 	display: flex;
 	flex-wrap: wrap;
-	font-size: 15px;
 	text-align: justify;
 	width: 100%;
 }
@@ -734,73 +737,122 @@ input[type=checkbox],
 	flex: 100%;
 	padding-left: 6px;
 	padding-right: 6px;
+	text-align: center;
 }
 
-.meditation-intro>p {
+.meditation-intro >p {
 	text-align: center;
+	font-size: 18px;
 }
 
 .meditation-left {
 	flex: 45%;
-	height: 420px;
-	background-color: rgb(245, 218, 223);
-	padding-left: 10px;
-	padding-right: 10px;
+	height: 660px;
+	background-color: rgb(245, 218, 223,0.4);
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 21px;
 }
 
 .meditation-right {
 	flex: 45%;
-	height: 420px;
-	background-color: rgb(202, 209, 190);
-	padding-left: 10px;
-	padding-right: 10px;
-	font-size: 16px;
+	height: 660px;
+	background-color: rgb(202, 209, 190,0.4);
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 21px;
 }
 
-.meditation-right img {
-	height: 100px;
-	width: 100px;
+.meditation-right >img {
+	height: 160px;
+	width: 130px;
 	float: left;
 	margin-right: 10px;
 	border: 2px solid green;
+	object-fit: cover;
+	
 }
 
-.meditation-center {
-	height: 350px;
-	background-color: rgb(245, 236, 206);
-	flex: 100%;
-	padding-left: 10px;
-	padding-right: 10px;
-}
+ /* Meditation Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
 
-
-/* Meditation Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
-@media (max-width: 800px) {
+ @media (max-width: 890px) {
 
 	.meditation-right,
 	.meditation-left {
 		flex: 100%;
-		font-size: 12px;
+		flex-direction: column;
+		font-size: 20px;
+		height: 550px;
 	}
 
 	.meditation-intro>p {
 		text-align: justify;
-		font-size: 13px;
-
+		font-size: 18px;
 	}
+}
+@media (max-width: 615px) {
+.meditation-right,
+	.meditation-left {
+		
+		height: 600px;
+	}
+}
 
-	@media (max-width: 280px) {
-
-		.meditation-right,
+@media (max-width: 525px) {
+	
 		.meditation-left {
-			font-size: 10px;
+			height: 650px;
+			font-size: 18px;
 		}
-
-		.meditation-intro>p {
-			text-align: justify;
-			font-size: 10px;
+		.meditation-right {
+			height: 675px;
+			font-size: 18px;
 		}
 	}
+	
+	@media (max-width: 450px) {
+		.meditation-intro {
+			height:130px;
+		}
+		
+
+		.meditation-intro >p {
+			text-align: justify;
+			font-size: 18px;
+		}
+
+	}
+
+	@media (max-width: 425px) {
+
+		.meditation-intro {
+			height:150px;
+		}
+
+		.meditation-intro >p {
+			text-align: center;
+			font-size: 18px;
+		}
+
+		.meditation-left {
+			height:600px;
+			font-size:16px;
+		}
+
+		.meditation-right {
+			height:700px;
+			font-size:16px;
+		}
+
+}
+
+@media (max-width: 300px) {
+
+		.meditation-right {
+			height:800px;
+			font-size:16px;
+		}
+
 }
 
 /* Footer */
