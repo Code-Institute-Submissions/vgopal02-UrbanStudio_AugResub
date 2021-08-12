@@ -1003,7 +1003,7 @@ table, th, td , tr {
 .contact-container {
 	display: flex;
 	flex-wrap: wrap;
-	font-size: 15px;
+	font-size: 18px;
 	text-align: justify;
 	padding-left: 5%;
 	padding-right: 5%;
@@ -1012,25 +1012,27 @@ table, th, td , tr {
 
 .contact-left {
 	flex: 45%;
-	height: 750px;
-	background-color: rgb(245, 218, 223, 0.4);
+	height: 850px;
+	background-color: rgb(245, 218, 223,0.4);
+	font-size: 18px;
 	padding-left: 20px;
 }
 
 .contact-right {
 	flex: 45%;
-	height: 750px;
-	background-color: rgb(202, 209, 190, 0.4);
-	font-size: 16px;
+	height: 850px;
+	background-color:  rgb(202, 209, 190,0.4);
+	font-size: 18px;
 	padding-left: 20px;
 }
 
-.contact-right>img {
+.contact-right >img {
 	margin-left: 70px;
 	width: 70%;
+	object-fit: cover;
 }
 
-.contact-right>p {
+.contact-right >p {
 	margin-left: 70px;
 }
 
@@ -1061,19 +1063,20 @@ input[type=submit] {
 	display: block;
 	width: 200px;
 	margin-top: 5px;
+	position:relative;
 }
 
 /* CONTACT US PAGE - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of "How to find us section" */
 
-@media (max-width: 800px) {
+@media (max-width: 890px) {
 
 	.contact-right,
 	.contact-left {
 		flex: 100%;
-		font-size: 14px;
+		font-size: 16px;
 	}
 
-	.contact-right>img {
+	.contact-right >img {
 		margin-left: 15px;
 		width: 70%;
 	}
@@ -1092,10 +1095,17 @@ input[type=submit] {
 	.contact-right>p {
 		margin-left: 10px;
 		margin-right: 10px;
-		font-size: 13px;
+		font-size: 16px;
 	}
 }
 
+@media (max-width: 320px) {
+	.contact-left
+	{
+	height:900px;
+} 
+
+}
 @media (max-width: 280px) {
 
 	input[type="radio"] {
@@ -1104,5 +1114,15 @@ input[type=submit] {
 
 	input[type=submit] {
 		width: 180px;
+	
 	}
 }
+
+
+
+
+
+
+
+
+
