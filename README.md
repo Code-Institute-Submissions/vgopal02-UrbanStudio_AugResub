@@ -102,6 +102,31 @@
     - Following which the user is shown a clear weekday and week-end timetable of the meditation classes.
 <br>
 <br>
+
+- ## GALLERY PAGE
+
+<img src="readme/images/gallery_1.png" alt="gallery page image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/gallery_2.png" alt="gallery page image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- The gallery page reflects to the user the studio and its surroundings.
+    - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio's look and the type of classes taught.
+    - It indicates to the user of what to expect within the studio surroundings.
+    - The page is responsive on different device sizes.
+<br>
+<br>
+
+- ## CONTACT US PAGE
+
+<img src="readme/images/contact_1.png" alt="contactpage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/contact_2.png" alt="contactpage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- The contact us page allows the user to communicate with the studio.
+    - The page allows the user to send a message to the studio which will be replied to.
+    - Alternatively, the user has adress and telephone contacts of the studio to be be able to visit or call.
+    - The page is responsive on different device sizes.
+<br>
+<br>
+
 ## Technologies Used
 
 ### Languages Used
