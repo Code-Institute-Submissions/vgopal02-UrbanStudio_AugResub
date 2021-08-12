@@ -1,8 +1,8 @@
 <h1 align="center">Urban Studio Website</h1>
 
-[View the live project here.](https://vgopal02.github.io/UrbanStudio/index.html)
+[View the live project here.](https://vgopal02.github.io/BurgerBar/index.html)
 
-<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and retired people - both of whom the studio hopes to appeal to. Therefore , as a B2C site it is designed to be accessible on a range of devices , making it easy to navigate for both younger and older potential clients.</p>
+<p style="justify">This is the main marketing webiste for a new wellness company called URBAN STUDIO. It has opened a studio which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , the site is designed to be accessible on a range on devices , making it easy to navigate for both youngerv and older potential clients.</p>
 
 <h2 align="center"><img src="readme/images/wf_screenshot1.png" alt="Website Screen Shots" width="700" height="400"></h2>
 
@@ -12,34 +12,25 @@
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand and learn about the organisation and what it offers.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
-    -   #### Design
-        -   #### Color Scheme
-        Colors have been inspired by the brand logo (tree of life - depicting balance which is part of the brand USP) and  color pallete obtained from [Colorcombos](https://www.colorcombos.com).
-        <h2 align="center"><img src="readme/images/wf_color.png" alt="image of color combination" width="500" height="300"/></h2>
-        <br/>
-         <p> Final Colors used in the site include</p>
+        -   ### Design
+    -   #### Colour Scheme
+       Colors were inspired by the brand logo ( tree of life) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
+       <br>
+        <img src="readme/images/wf_color.png" alt="image of color combination" width="900" height="300" img align="center"/>
+        <br>
+        Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
 
-        1.  rgb(75, 94, 42)
-        2.  rgb(214, 210, 188)
-        3.  rgb(202, 209, 190)
-        4.  rgba(221, 6, 53)
-        5.  rgb(245, 218, 223) 
-        6.  rgb(224, 214, 185) 
+    -   #### Typography
+        -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites, are both attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .
 
-        -   #### Typography
-        -   <p style="justify">All headers are in Raleway. Josefin is the main font used throughout the website.Sans Serif is the fallback font in case either fonts are not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.This has been added to enhance the welcome image while conveying the brand USP.</p>
-
-        -   #### Imagery
-        -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image, is designed to catch the user's attention. It also has a modern and energetic aesthetics without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
-
-
--  ### Wireframes 
-
-    <p>Wireframes have been created using Balsamiq.</p>
+    -   #### Imagery
+        -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where differnt age range people can be seen.
+       
+        -  ### Wireframes 
     
     -   #### Site Map
         <p float="left">
@@ -63,10 +54,18 @@
         <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
         </p>
 
+# Features
 
-## Features
+- ## HOME PAGE
+<img src="readme/images/hp_1.png" alt="homepage image" width="513" height="685"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/hp_3.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
--   Responsive on all device sizes
+- The user is welcomed into the site users are automatically greeted with a clean brand logo and social media links.
+- This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
+- Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users there is more details below the about-us section to which they may go directly.
+- The page is responsive on different device sizes.
+<br>
+<br>
 
 ## Technologies Used
 
