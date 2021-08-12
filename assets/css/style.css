@@ -400,10 +400,13 @@ input[type=checkbox],
 
 /* Yoga Information Section */
 
+#yoga {
+	margin-top:50px;
+}
+
 .yoga-container {
 	display: flex;
 	flex-wrap: wrap;
-	font-size: 15px;
 	text-align: justify;
 	width: 100%;
 }
@@ -413,50 +416,133 @@ input[type=checkbox],
 	flex: 100%;
 	padding-left: 6px;
 	padding-right: 6px;
+	text-align: center;	
 }
 
-.yoga-intro>p {
+.yoga-intro >p {
 	text-align: center;
+	font-size: 18px;
 }
 
 .yoga-left {
 	flex: 45%;
-	height: 420px;
-	background-color: rgb(245, 218, 223);
-	padding-left: 10px;
-	padding-right: 10px;
+	height: 660px;
+	background-color: rgb(245, 218, 223,0.4);
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 21px;
 }
 
 .yoga-right {
 	flex: 45%;
-	height: 420px;
-	background-color: rgb(202, 209, 190);
-	padding-left: 10px;
-	padding-right: 10px;
-	font-size: 16px;
+	height: 660px;
+	background-color: rgb(202, 209, 190,0.4);
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 21px;
 }
 
-.yoga-right>img {
-	height: 100px;
-	width: 100px;
+.yoga-right >img {
+	height: 150px;
+	width: 120px;
 	float: left;
 	margin-right: 10px;
 	border: 2px solid green;
+	object-fit: cover;
 }
 
-.yoga-center {
-	height: 350px;
-	background-color: rgb(245, 236, 206);
-	flex: 100%;
-	padding-left: 10px;
-	padding-right: 10px;
+
+/* Yoga Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
+
+@media (max-width: 890px) {
+
+	.yoga-right,
+	.yoga-left {
+		flex: 100%;
+		flex-direction: column;
+		font-size: 20px;
+		height: 550px;
+	}
+
+	.yoga-intro>p {
+		text-align: justify;
+		font-size: 18px;
+	}
 }
+@media (max-width: 615px) {
+	.yoga-right,
+	.yoga-left {
+		
+		height: 600px;
+	}
+}
+
+@media (max-width: 525px) {
+	
+	.yoga-left {
+			height: 650px;
+			font-size: 18px;
+	}
+	.yoga-right {
+			height: 675px;
+			font-size: 18px;
+		}
+}
+	
+	@media (max-width: 450px) {
+	
+	.yoga-intro {
+			height:130px;
+		}
+		
+
+		.yoga-intro >p {
+			text-align: justify;
+			font-size: 18px;
+		}
+
+}
+
+	@media (max-width: 425px) {
+
+		.yoga-intro {
+			height:150px;
+		}
+
+		.yoga-intro >p {
+			text-align: center;
+			font-size: 18px;
+		}
+
+		.yoga-left {
+			height:600px;
+			font-size:16px;
+		}
+
+		.yoga-right {
+			height:700px;
+			font-size:16px;
+		}
+
+}
+
+@media (max-width: 300px) {
+
+		.yoga-right {
+			height:800px;
+			font-size:16px;
+		}
+
+}
+
+
+/* Join Us link - Yoga , Pilates and Meditation Section */
 
 .contact-us {
 	width: 100px;
 	border: 5px solid #f16c6b;
 	padding: 5px;
-	font-size: 15px;
+	font-size: 16px;
 	margin-left: 47%;
 	margin-bottom: 20px;
 	text-align: center;
@@ -474,68 +560,21 @@ input[type=checkbox],
 	color: blueviolet;
 }
 
-/* Yoga Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
-
-@media (max-width: 800px) {
-
-	.yoga-right,
-	.yoga-left {
-		flex: 100%;
-		font-size: 13px;
-	}
-
-	.yoga-intro>p {
-		text-align: justify;
-		font-size: 13px;
-	}
-
-	@media (max-width: 280px) {
-
-		.yoga-right,
-		.yoga-left {
-			font-size: 10px;
-		}
-
-		.yoga-intro>p {
-			text-align: justify;
-			font-size: 10px;
-		}
-
-	}
-
+.center {
+	text-align:center;
 }
 
-/* Yoga , Pilates , Meditation TimeTable Section - Mobile Responsive - adjusts font size and margin of the "Join Us" button */
-
-@media (max-width: 800px) {
-
-	.table,
-	td,
-	th {
-		font-size: 8px;
-	}
+.red{
+	color:red
 }
 
-@media (max-width: 280px) {
 
-	.table,
-	td,
-	th {
-		font-size: 5px;
-	}
-}
+/* Join Us link - Yoga , Pilates and Meditation Section - Mobile Responsive media query */
 
 @media (max-width: 800px) {
 
 	.contact-us {
-		margin-left: 42%;
-	}
-}
-
-@media (max-width: 500px) {
-
-	.contact-us {
-		margin-left: 32%;
+		margin-left: 38%;
 	}
 
 }
