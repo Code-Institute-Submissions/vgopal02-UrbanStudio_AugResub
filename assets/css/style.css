@@ -7,6 +7,7 @@
 	margin: 0;
 	padding: 0;
 	border: none;
+
 }
 
 body {
@@ -28,6 +29,16 @@ h2 {
 h3 {
 	font-family: Raleway, sans-serif;
 }
+
+
+
+.sec-break {
+	height: 1px;
+	flex: 100%;
+	background-color: rgb(75, 94, 42);
+}
+
+
 
 /* HOME PAGE */
 
@@ -196,98 +207,92 @@ input[type=checkbox],
 
 #cover-text {
 	background-color: rgba(221, 6, 53, 0.507);
-	height: 14%;
-	width: 50%;
+	height: 6%;
+	width: 40%;
 	position: absolute;
 	top: 600px;
 	font-family: "Dancing Script", sans-serif;
-	color: rgb(239, 243, 239);
-	font-size: 190%;
+	color: white;
+	font-size: 40px;
 	text-align: center;
-	margin-top: 20px;
-	padding-top: 2%;
+	margin-top: 10px;
+	padding-top: 1%;
 }
 
 /* Hero-Image and Cover Text Section - Mobile responsive */
-@media screen and (max-width:1200px) {
+
+@media screen and (max-width:1100px) {
 	#cover-text {
 		text-align: center;
-		font-size: 500%;
-		height: 8%;
+		font-size: 37px;
+		height: 6%;
 	}
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:975px) {
 	#cover-text {
 		text-align: center;
-		font-size: 130%;
-		height: 8%;
-		top: 600px;
+		font-size: 35px;
+		height: 7%;
+		top: 620px;
+		padding: 2%;
 	}
 }
 
 @media screen and (max-width:700px) {
-	#cover-text {
-		text-align: center;
-		font-size: 90%;
-		height: 14%;
-		top: 620px;
-		padding: 2%;
-	}
-}
 
-@media screen and (max-width:600px) {
 	#cover-text {
 		text-align: center;
-		font-size: 90%;
-		height: 10%;
-		top: 620px;
-		padding: 2%;
+		font-size: 32px;
 
 	}
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:640px) {
 	#cover-text {
 		text-align: center;
-		font-size: 60%;
-		height: 6%;
+		font-size: 28px;
+		height: 8%;
 		top: 620px;
 		padding: 2%;
 
 	}
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:412px) {
+
 	#cover-text {
 		text-align: center;
-		font-size: 55%;
-		height: 7%;
+		font-size: 26px;
+		height: 8%;
 		top: 620px;
 		padding: 2%;
 	}
+
 }
 
-@media screen and (max-width:280px) {
+@media screen and (max-width:360px) {
+
 	#cover-text {
-		font-size: 40%;
-		height: 4%;
-		padding: 1%;
+		font-size: 22px;
+		height: 8%;
+		top: 620px;
+		padding: 2%;
 	}
+
 }
 
-@media screen and (max-width:240px) {
+@media screen and (max-width:300px) {
+
 	#cover-text {
-		font-size: 40%;
-		height: 7%;
-		padding: 1%;
+		height: 12%;
 	}
-}
 
+}
 
 /* Scroll Down Arrow */
 
-.scroll-down>p {
+.scroll-down >p {
 	text-align: center;
 	font-size: 50px;
 	color: rgb(75, 94, 42);
@@ -311,9 +316,10 @@ input[type=checkbox],
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
-.about-container>div {
+.about-container >div {
 	color: black;
 	background-color: white;
 	padding: 20px;
@@ -322,33 +328,35 @@ input[type=checkbox],
 	height: 85%;
 	text-align: center;
 	padding: 5px;
-	font-size: 16px;
+	font-size: 18px;
 	margin: 20px;
-	text-align: justify;
-}
-
-.about-container>h3 {
 	text-align: center;
 }
 
-/* About Us Section - Mobile responsive */
-
-@media screen and (max-width:1200px) {
-	.about-container {
-		height: 400px;
-	}
+.about-container >h3 {
+	text-align: center;
 }
 
+.about-container >p {
+	text-align: center;
+}
+
+/* About Us Section - Mobile responsive media queries */
+
 @media screen and (max-width:1200px) {
-	.about-container>div {
+	
+	.about-container >div {
 		font-size: 120%;
 		height: 80%;
 	}
 }
 
-@media screen and (max-width:800px) {
-	.about-container>div {
-		font-size: 100%;
+@media screen and (max-width:855px) {
+	.about-container {
+		height: 350px;
+	}
+	
+	.about-container >div {
 		height: 180px;
 		padding: 0;
 		height: 90%;
@@ -357,7 +365,7 @@ input[type=checkbox],
 
 @media screen and (max-width:500px) {
 	.about-container>div {
-		font-size: 82%;
+		font-size: 17px;
 		height: 180px;
 		padding: 0;
 		height: 90%;
@@ -365,16 +373,30 @@ input[type=checkbox],
 	}
 }
 
-@media screen and (max-width:280px) {
-	.about-container>div {
-		font-size: 60%;
+@media screen and (max-width:390px) {
+	.about-container >div {
+		font-size: 16px;
 		height: 180px;
 		padding: 0;
 		height: 90%;
 		margin-top: 0;
 	}
+	.about-container h2 {
+		font-size: 18px;
+	}
 }
 
+@media screen and (max-width:300px){
+	
+	.about-container {
+		height: 445px;
+	}
+	
+	.about-container h2 {
+		font-size: 16px;
+	}
+
+}
 
 /* Yoga Information Section */
 
