@@ -66,6 +66,7 @@
 - The page is responsive on different device sizes.
 <br>
 <br>
+
 - ## Yoga Section
 
 <img src="readme/images/yoga _1.png" alt="homepage image" width="513" height="685" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,7 +128,49 @@
 <br>
 <br>
 
-## Technologies Used
+ ## OTHER KEY FEATURES
+
+ - ### Header, NavBar and Footer
+
+<img src="readme/images/k_header.png" alt="contactpage image" width="700" height="200"/>
+
+<img src="readme/images/k_burger.png" alt="contactpage image" width="200" height="400"/>
+
+-   The Header , Nav Bar and Footer  are used consistently in each page so the user knows exactly what to expect and for seemless navigation.
+    -   They  have a consistent color scheme so the user is clear about the start and end of each page. 
+    - The Nav Bar gets converted to a hamburger menu as a responsive action in screen sizes with width of 600px and below.
+<br>
+<br>
+
+- ### Consistenty in Sections and Section Breaks
+
+<img src="readme/images/k_yoga.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/k_pilates.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/k_med.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- The home page is divided into three key sections - Yoga , pilates and Meditation. While information on each section varies user experience remains the same as each section remains consistent with the next.
+    - To ensure the user knows that they have come to the end of one section and starting a new one there are clear lines indicating the ssame.
+    - To maintain fluidity of site and ensure the user is not trapped the "Join Us" button in each section allows the user to go to the contact us page without having to scroll back to the top nav bar.
+
+<br>
+<br>
+ 
+-   ### Color Scheme 
+     - The color scheme used has remianed consistent through the site . 
+     - Limited and consistent use of colors allows the user to know what to expect.
+     - Darker color text against lighter backgrounds help the user to read clearly.
+     - Font colors include : rgb(75, 94, 42) and Black.
+     - Header and Footer background :rgb(214, 210, 188).
+     - Yoga,Pilates,Meditation section box background and Contact Us Page:rgb(202, 209, 190,0.4) and rgb(245, 218, 223,0.4).Opacity has been added to ensure the fonts are clearly visible. 
+<br>
+<br>
+
+-   ### Typography
+    -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites, are both attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image. Minimum font size used across the site is  16px to ensure all text is clearly and visible based on [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
+<br>
+<br>
+    
+# Technologies Used
 
 ### Languages Used
 
@@ -136,87 +179,67 @@
 
 ### Frameworks, Libraries & Programs Used
 
-- [Google Fonts:](https://fonts.google.com/)
-    - Google fonts has been used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
-- [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome has been used on all pages throughout the website to add icons for aesthetic and UX purposes.
-- [Git](https://git-scm.com/)
-    - Git has been used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-- [GitHub:](https://github.com/)
-    - GitHub has been used to store the projects code after being pushed from Git.
-- [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq has been used to create the wireframes during the design process.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
+2. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+3. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+4. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+5. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
+# Testing
 
-## Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
--   #### Home Page - index.html
-<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
-
--   #### Gallery Page - gallery.html
-<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
-
--   #### Contact Us Page - contact.html
-<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
-
--   #### CSS - style.css
-<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
-
-            
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site - learn more about the organisation and what services it offers.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
         1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
       
         2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
         
-        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users that there are more details below the about-us section to which they may go directly.
+        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
 
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        2. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
+        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+<br>
+<br>
 
-        2. As the site in its current state is primarily information based - social media is essential. Therefore, social media links have been placed at the top to allow users to navigate without having to search for them.
+## Further Testing
 
-        3. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
-
-        4. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
-   
-### Further Testing
-
--   The Website has been tested on Google Chrome, Firefox and Safari browsers.
-
--   The website has been viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
-
--   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
-
--  Testing has been done to ensure that all pages are linking correctly.
-
--  Friends and family members  across global locations ( US, India, Singpore and UK) have been asked to review the site and document any bugs and/or user experience issues.
-
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX.
+-   Testing was done to ensure that all pages were linking correctly.
+-   Friends and family members  across global locations ( US , India , Singpore and UK) were asked to review the site and documentation to point out any bugs and/or user experience issues.
+<br>
+<br>
 
 ## Deployment
 
 ### GitHub Pages
 
-The project has been created on gitpod and deployed to GitHub Pages using the following steps...
+The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
-
 5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-6. Scroll back down through the page to locate the now published site [link](https://vgopal02.github.io/UrbanStudio/index.html) in the "GitHub Pages" section.
 
 ## Limitations and Future of the site
 - In its current form the site serves the purpose as defined by the organistion - which is to provide and promote to users  information about the organisation's activities .
@@ -228,31 +251,31 @@ Future
 
 However this can be considered as a first step for the organisation. In future with more advanced technology the site can be further developed as:
 - Phase 2 : Adding an interactive time-table and allowing the form to submit information to a database
-
 - Phase 3 : Adding a backend database allowing users to be able to book  and cancel classes online
-
 - Phase 4 : Allowing the user to be able to make payment for classes after booking.
+<br>
+<br>
 
-## Credits
+# Credits
 
 ### Code
 
--   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code has been modified to better fit my needs using only CSS and to create a hamburger menu which centered itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
+-   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code was modified to better fit my needs using only CSS and to create a hamburger menu which centerd itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
 
 ### Content
 
--   All content has been written by the developer.
+-   All content was written by the developer.
 
--   Colors for the site have been chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green has been chosen based on the brand USP 'Balance' while supporting colors have been based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+-   Colors for the site were chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green was chosen based on the brand USP 'Balance' while supoorting colors were based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+
+- Font guidelines sought from [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)
 
 
 ### Media
 
--  All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com).
+-   All images were sourced from [Pexels](https://www.pexels.com) and [Unsplash] (https://www.unsplash.com)
 
--  Brand Logo (Tree of life) has been sourced from [Google Images](https://images.google.co.uk/).
-
--  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/).
+- Screen Shots were sourced from [AmIresponsive](ami.responsivedesign)
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
@@ -265,22 +288,3 @@ However this can be considered as a first step for the organisation. In future w
 ### Acknowledgements
 
 -  I would like thank my mentor Medale Oluwafemi. His guidance in giving constructive feedback through all stages of site design and development has been most valuable.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
