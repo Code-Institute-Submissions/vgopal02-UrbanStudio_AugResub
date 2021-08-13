@@ -152,10 +152,6 @@
 
 - ### Consistenty in Sections and Section Breaks
 
-<img src="readme/images/k_yoga.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/k_pilates.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/k_med.png" alt="section linebreak image" width="260" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 - The home page is divided into three key sections - Yoga , pilates and Meditation. While information on each section varies user experience remains the same as each section remains consistent with the next.
     - To ensure the user knows that they have come to the end of one section and starting a new one there are clear lines indicating the ssame.
     - To maintain fluidity of site and ensure the user is not trapped the "Join Us" button in each section allows the user to go to the contact us page without having to scroll back to the top nav bar.
