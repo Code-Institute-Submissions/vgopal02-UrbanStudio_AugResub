@@ -67,7 +67,7 @@
 <br>
 
 - ## Yoga Section
-<h2 align="center"><img src="readme/images/yoga_1.png" alt="yoga section image" width="700" height="820"></h2>
+<h2 align="center"><img src="readme/images/yoga_1.png" alt="yoga section image" width="700" height="850"></h2>
 
 - In the yoga section the user introduced to the core principle of yoga the studio follows.
     - This is followed by easily readable sub-section conveying the different levels and styles offered. 
