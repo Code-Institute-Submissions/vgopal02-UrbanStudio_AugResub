@@ -20,7 +20,7 @@
     -   #### Colour Scheme
        Colors were inspired by the brand logo ( tree of life) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
        <br>
-        <img src="readme/images/wf_color.png" alt="image of color combination" width="900" height="300" img align="center"/>
+        <img src="readme/images/wf_color.png" alt="image of color combination" width="700" height="300" img align="center"/>
         <br>
         Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
 
