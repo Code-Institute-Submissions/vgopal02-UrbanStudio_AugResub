@@ -137,7 +137,7 @@
 
 
 
- - ### Header, NavBar and Footer
+ - ### Header and Footer
 
 <h2 align="center"><img src="readme/images/header.png" alt="header image" width="650" height="200"></h2>
 <h2 align="center"><img src="readme/images/footer.png" alt="footer image" width="650" height="125"></h2>
