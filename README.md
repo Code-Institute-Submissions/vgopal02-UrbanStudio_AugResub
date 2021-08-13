@@ -78,7 +78,7 @@
 
 - ## Pilates Section
 
-<h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section image" width="700" height="850"></h2>
+<h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section image" width="650" height="850"></h2>
 
 
 - In the pilates section the user introduced to the core principle of pilates the studio follows.
@@ -90,7 +90,7 @@
 
 - ## Meditation Section
 
-<h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section image" width="700" height="850"></h2>
+<h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section image" width="650" height="850"></h2>
 
 - In the meditation section the user introduced to the types of meditation the studio follows.
     - This is followed by easily readable sub-section conveying the different levels and styles offered. 
@@ -101,7 +101,7 @@
 
 - ## GALLERY PAGE
 
-<h2 align="center"><img src="readme/images/gallery_1.png" alt="Gallery page Screen Shot" width="700" height="800"></h2>
+<h2 align="center"><img src="readme/images/gallery_1.png" alt="Gallery page Screen Shot" width="650" height="800"></h2>
 
 
 - The gallery page reflects to the user the studio and its surroundings.
@@ -113,7 +113,7 @@
 
 - ## CONTACT US PAGE
 
-<h2 align="center"><img src="readme/images/contact_1.png" alt="Contact Us page Screen Shot" width="700" height="800"></h2>
+<h2 align="center"><img src="readme/images/contact_1.png" alt="Contact Us page Screen Shot" width="650" height="800"></h2>
 
 - The contact us page allows the user to communicate with the studio.
     - The page allows the user to send a message to the studio which will be replied to.
