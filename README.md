@@ -124,6 +124,18 @@
 
  ## OTHER KEY FEATURES
 
+- ### Mobile Responsive
+<p float="left">
+        <img src="readme/images/mr_1.png" alt="Android homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/mr_2.png" alt="Iphone homepage image" width="200" height="400"/>
+        <img src="readme/images/mr_3.png" alt="Ipad homepage image" width="350" height="400"/>
+        </p>
+
+-   The site has been made reponsive to different devices with varying width .
+-   The site is responsive to different browesers - Chrome , Safari and Firefox.
+
+
+
  - ### Header, NavBar and Footer
 
 <h2 align="center"><img src="readme/images/header.png" alt="header image" width="700" height="200"></h2>
