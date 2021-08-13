@@ -57,7 +57,7 @@
 # Features
 
 - ## HOME PAGE
-<h2 align="center"><img src="readme/images/hp_1.png" alt="Homepage Screen Shot" width="700" height="800"></h2>
+<h2 align="center"><img src="readme/images/hp_1.png" alt="Homepage Screen Shot" width="650" height="800"></h2>
 
 - The user is welcomed into the site users are automatically greeted with a clean brand logo and social media links.
 - This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
@@ -127,7 +127,7 @@
 - ### Mobile Responsive
 <p float="left">
         <img src="readme/images/mr_1.png" alt="Android homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="readme/images/mr_2.png" alt="Iphone homepage image" width="200" height="400"/>
+        <img src="readme/images/mr_2.png" alt="Iphone homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="readme/images/mr_3.png" alt="Ipad homepage image" width="320" height="400"/>
         </p>
 
