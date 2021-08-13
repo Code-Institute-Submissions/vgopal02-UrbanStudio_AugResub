@@ -101,7 +101,7 @@
 
 - ## GALLERY PAGE
 
-<h2 align="center"><img src="readme/images/gallery_1_1.png" alt="Gallery page Screen Shot" width="700" height="800"></h2>
+<h2 align="center"><img src="readme/images/gallery_1.png" alt="Gallery page Screen Shot" width="700" height="800"></h2>
 
 
 - The gallery page reflects to the user the studio and its surroundings.
