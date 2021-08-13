@@ -57,8 +57,7 @@
 # Features
 
 - ## HOME PAGE
-<img src="readme/images/hp_1.png" alt="homepage image" width="513" height="685"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/hp_3.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center"><img src="readme/images/hp_1.png" alt="Website Screen Shots" width="700" height="400"></h2>
 
 - The user is welcomed into the site users are automatically greeted with a clean brand logo and social media links.
 - This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
