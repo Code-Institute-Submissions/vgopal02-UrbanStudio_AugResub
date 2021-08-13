@@ -57,7 +57,7 @@
 # Features
 
 - ## HOME PAGE
-<h2 align="center"><img src="readme/images/hp_1.png" alt="Website Screen Shots" width="700" height="800"></h2>
+<h2 align="center"><img src="readme/images/hp_1.png" alt="Homepage Screen Shot" width="700" height="800"></h2>
 
 - The user is welcomed into the site users are automatically greeted with a clean brand logo and social media links.
 - This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
@@ -101,8 +101,8 @@
 
 - ## GALLERY PAGE
 
-<img src="readme/images/gallery_1.png" alt="gallery page image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/gallery_2.png" alt="gallery page image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center"><img src="readme/images/gallery_1_1.png" alt="Gallery page Screen Shot" width="700" height="800"></h2>
+
 
 - The gallery page reflects to the user the studio and its surroundings.
     - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio's look and the type of classes taught.
