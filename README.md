@@ -78,8 +78,8 @@
 
 - ## Pilates Section
 
-<img src="readme/images/pilates_1.png" alt="homepage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/pilates_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center"><img src="readme/images/pilates_1.png" alt="yoga section image" width="700" height="850"></h2>
+
 
 - In the pilates section the user introduced to the core principle of pilates the studio follows.
     - This is followed by easily readable sub-section conveying the different levels and styles offered. 
