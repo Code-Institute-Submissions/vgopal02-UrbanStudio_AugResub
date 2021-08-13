@@ -150,7 +150,7 @@
 <br>
 <br>
 
-- ### Consistenty in Sections and Section Breaks
+- ### Section Consistency and Section Breaks
 
 - The home page is divided into three key sections - Yoga , pilates and Meditation. While information on each section varies user experience remains the same as each section remains consistent with the next.
     - To ensure the user knows that they have come to the end of one section and starting a new one there are clear lines indicating the ssame.
