@@ -68,8 +68,8 @@
 
 - ## Yoga Section
 
-<img src="readme/images/yoga _1.png" alt="homepage image" width="513" height="685" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/Yoga_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme/images/yoga _1.png" alt="homepage image" width="700" height="800" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 - In the yoga section the user introduced to the core principle of yoga the studio follows.
