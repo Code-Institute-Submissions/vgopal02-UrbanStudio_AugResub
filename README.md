@@ -78,7 +78,7 @@
 
 - ## Pilates Section
 
-<h2 align="center"><img src="readme/images/pilates_1.png" alt="yoga section image" width="700" height="850"></h2>
+<h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section image" width="700" height="850"></h2>
 
 
 - In the pilates section the user introduced to the core principle of pilates the studio follows.
@@ -90,8 +90,7 @@
 
 - ## Meditation Section
 
-<img src="readme/images/meditate_1.png" alt="homepage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/meditate_2.png" alt="homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section image" width="700" height="850"></h2>
 
 - In the meditation section the user introduced to the types of meditation the studio follows.
     - This is followed by easily readable sub-section conveying the different levels and styles offered. 
