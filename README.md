@@ -67,8 +67,8 @@
 <br>
 
 - ## Yoga Section
+<h2 align="center"><img src="yoga_1.png" alt="yoga section image" width="700" height="820"></h2>
 
-<img src="readme/images/yoga_1.png" alt="yoga section image" width="700" height="800" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
