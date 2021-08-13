@@ -113,8 +113,7 @@
 
 - ## CONTACT US PAGE
 
-<img src="readme/images/contact_1.png" alt="contactpage image" width="600" height="700"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="readme/images/contact_2.png" alt="contactpage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center"><img src="readme/images/contact_1.png" alt="Contact Us page Screen Shot" width="700" height="800"></h2>
 
 - The contact us page allows the user to communicate with the studio.
     - The page allows the user to send a message to the studio which will be replied to.
