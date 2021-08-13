@@ -128,7 +128,7 @@
 
 <img src="readme/images/header.png" alt="header image" width="700" height="200"/>
 
-<img src="readme/images/footer.png" alt="footer image" width="700" height="400"/>
+<img src="readme/images/footer.png" alt="footer image" width="700" height="200"/>
 
 -   The Header , Nav Bar and Footer  are used consistently in each page so the user knows exactly what to expect and for seemless navigation.
     -   They  have a consistent color scheme so the user is clear about the start and end of each page. 
