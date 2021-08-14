@@ -7,7 +7,6 @@
 	margin: 0;
 	padding: 0;
 	border: none;
-
 }
 
 body {
@@ -34,20 +33,15 @@ h3 {
 	font-family: Raleway, sans-serif;
 }
 
-
-
 .sec-break {
 	height: 1px;
 	flex: 100%;
 	background-color: rgb(75, 94, 42);
 }
 
-
-
 /* HOME PAGE */
 
 /* Logo and Header Section */
-
 .logo-image {
 	display: block;
 	margin-left: auto;
@@ -63,7 +57,6 @@ h3 {
 }
 
 /*  Logo and Header Section - Mobile responsive */
-
 @media screen and (max-width:500px) {
 	.logo-image {
 		display: block;
@@ -88,7 +81,6 @@ h3 {
 }
 
 /* Social Media Section */
-
 .social-networks {
 	text-align: center;
 }
@@ -198,7 +190,6 @@ input[type=checkbox],
 }
 
 /* Hero-image and Cover Text Section */
-
 .hero-image {
 	background-image: url('../images/hero-img.jpg');
 	height: 600px;
@@ -224,7 +215,6 @@ input[type=checkbox],
 }
 
 /* Hero-Image and Cover Text Section - Mobile responsive */
-
 @media screen and (max-width:1100px) {
 	#cover-text {
 		text-align: center;
@@ -248,7 +238,6 @@ input[type=checkbox],
 	#cover-text {
 		text-align: center;
 		font-size: 32px;
-
 	}
 }
 
@@ -259,7 +248,6 @@ input[type=checkbox],
 		height: 8%;
 		top: 620px;
 		padding: 2%;
-
 	}
 }
 
@@ -295,7 +283,6 @@ input[type=checkbox],
 }
 
 /* Scroll Down Arrow */
-
 .scroll-down >p {
 	text-align: center;
 	font-size: 50px;
@@ -312,7 +299,6 @@ input[type=checkbox],
 }
 
 /* About Us Section */
-
 .about-container {
 	width: 100%;
 	height: 300px;
@@ -346,7 +332,6 @@ input[type=checkbox],
 }
 
 /* About Us Section - Mobile responsive media queries */
-
 @media screen and (max-width:1200px) {
 	
 	.about-container >div {
@@ -356,6 +341,7 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:855px) {
+	
 	.about-container {
 		height: 350px;
 	}
@@ -368,6 +354,7 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:500px) {
+	
 	.about-container>div {
 		font-size: 17px;
 		height: 180px;
@@ -378,6 +365,7 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:390px) {
+	
 	.about-container >div {
 		font-size: 16px;
 		height: 180px;
@@ -403,7 +391,6 @@ input[type=checkbox],
 }
 
 /* Yoga Information Section */
-
 #yoga {
 	margin-top:50px;
 }
@@ -455,9 +442,7 @@ input[type=checkbox],
 	object-fit: cover;
 }
 
-
 /* Yoga Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
-
 @media (max-width: 890px) {
 
 	.yoga-right,
@@ -493,7 +478,7 @@ input[type=checkbox],
 		}
 }
 	
-	@media (max-width: 450px) {
+@media (max-width: 450px) {
 	
 	.yoga-intro {
 			height:130px;
@@ -507,7 +492,7 @@ input[type=checkbox],
 
 }
 
-	@media (max-width: 425px) {
+@media (max-width: 425px) {
 
 		.yoga-intro {
 			height:150px;
@@ -541,7 +526,6 @@ input[type=checkbox],
 
 
 /* Join Us link - Yoga , Pilates and Meditation Section */
-
 .contact-us {
 	width: 100px;
 	border: 5px solid #f16c6b;
@@ -574,7 +558,6 @@ input[type=checkbox],
 
 
 /* Join Us link - Yoga , Pilates and Meditation Section - Mobile Responsive media query */
-
 @media (max-width: 800px) {
 
 	.contact-us {
@@ -585,7 +568,6 @@ input[type=checkbox],
 
 
 /* Pilates Information Section */
-
 #pilates {
 	margin-top:50px;
 }
@@ -638,9 +620,7 @@ input[type=checkbox],
 	
 }
 
-
 /* Pilates Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
-
 @media (max-width: 890px) {
 
 	.pilates-right,
@@ -676,7 +656,7 @@ input[type=checkbox],
 		}
 	}
 	
-	@media (max-width: 450px) {
+@media (max-width: 450px) {
 		.pilates-intro {
 			height:130px;
 		}
@@ -689,7 +669,7 @@ input[type=checkbox],
 
 	}
 
-	@media (max-width: 425px) {
+@media (max-width: 425px) {
 
 		.pilates-intro {
 			height:150px;
@@ -721,10 +701,7 @@ input[type=checkbox],
 
 }
 
-
-
 /* Meditation Information Section */
-
 #meditation {
 	margin-top:50px;
 }
@@ -755,8 +732,7 @@ input[type=checkbox],
 	background-color: rgb(245, 218, 223,0.4);
 	padding-left: 20px;
 	padding-right: 20px;
-	font-size: 21px;
-	
+	font-size: 21px;	
 }
 
 .meditation-right {
@@ -766,7 +742,6 @@ input[type=checkbox],
 	padding-left: 20px;
 	padding-right: 20px;
 	font-size: 21px;
-	
 }
 
 .meditation-right >img {
@@ -775,12 +750,10 @@ input[type=checkbox],
 	float: left;
 	margin-right: 10px;
 	border: 2px solid green;
-	object-fit: cover;
-	
+	object-fit: cover;	
 }
 
  /* Meditation Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
-
  @media (max-width: 890px) {
 
 	.meditation-right,
@@ -816,7 +789,7 @@ input[type=checkbox],
 		}
 	}
 	
-	@media (max-width: 450px) {
+@media (max-width: 450px) {
 		.meditation-intro {
 			height:130px;
 		}
@@ -829,7 +802,7 @@ input[type=checkbox],
 
 	}
 
-	@media (max-width: 425px) {
+@media (max-width: 425px) {
 
 		.meditation-intro {
 			height:150px;
@@ -862,7 +835,6 @@ input[type=checkbox],
 }
 
 /* Footer */
-
 footer {
 	margin-bottom:0;
 	padding: 1em;
@@ -882,7 +854,6 @@ footer >p {
 }
 
 /* Footer - Mobile Responsive */
-
 @media (max-width: 480px) {
 
 	footer {
@@ -900,7 +871,6 @@ footer >p {
 }
 
 /* Yoga / Pilates / Meditation Time Table Section */
-
 .time-table {
 	flex: 45%;
 	height: 400px;
@@ -909,7 +879,6 @@ footer >p {
 	padding-right: 20px;
 	font-size: 18px;
 }
-
 
 table {
 	width:100%;	
@@ -927,6 +896,7 @@ table, th, td , tr {
 	  justify-content: center;
   }
 
+/* Yoga / Pilates / Meditation Time Table Section - Mobile Responsive*/
   @media (max-width: 300px) {
 	
 	table, th, td ,tr {
@@ -945,7 +915,6 @@ table, th, td , tr {
 /* GALLERY PAGE */ 
 
  /* Image Gallery Section */
-
  .flex-container {
 	display: flex;
 	flex-direction: row;
@@ -1005,7 +974,6 @@ table, th, td , tr {
 } 
 
 /* CONTACT US PAGE */
-
 .contact-container {
 	display: flex;
 	flex-wrap: wrap;
@@ -1022,8 +990,7 @@ table, th, td , tr {
 	background-color: rgb(245, 218, 223,0.4);
 	font-size: 18px;
 	padding-left: 20px;
-	margin-bottom:30px;
-	
+	margin-bottom:30px;	
 }
 
 .contact-right {
@@ -1076,7 +1043,6 @@ input[type=submit] {
 }
 
 /* CONTACT US PAGE - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of "How to find us section" */
-
 @media (max-width: 890px) {
 
 	.contact-right,
