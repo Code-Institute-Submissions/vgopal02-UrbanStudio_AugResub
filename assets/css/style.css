@@ -911,7 +911,6 @@ table, th, td , tr {
     }
 }
 
-
 /* GALLERY PAGE */ 
 
  /* Image Gallery Section */
@@ -1049,6 +1048,10 @@ input[type=submit] {
 	.contact-left {
 		flex: 100%;
 		font-size: 16px;
+	}
+
+	.contact-left {
+		margin-bottom:0px;	
 	}
 
 	.contact-right >img {
