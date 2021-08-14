@@ -670,7 +670,6 @@ input[type=checkbox],
 	}
 
 @media (max-width: 425px) {
-
 		.pilates-intro {
 			height:150px;
 		}
@@ -693,7 +692,6 @@ input[type=checkbox],
 }
 
 @media (max-width: 300px) {
-
 		.pilates-right {
 			height:800px;
 			font-size:16px;
@@ -779,7 +777,6 @@ input[type=checkbox],
 }
 
 @media (max-width: 525px) {
-	
 		.meditation-left {
 			height: 650px;
 			font-size: 18px;
@@ -804,7 +801,6 @@ input[type=checkbox],
 	}
 
 @media (max-width: 425px) {
-
 		.meditation-intro {
 			height:150px;
 		}
@@ -827,7 +823,6 @@ input[type=checkbox],
 }
 
 @media (max-width: 300px) {
-
 		.meditation-right {
 			height:800px;
 			font-size:16px;
@@ -864,7 +859,6 @@ footer >p {
 }
 
 @media (max-width: 300px) {
-
 		footer {
 			height: 220px;
 		}
