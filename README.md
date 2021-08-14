@@ -207,9 +207,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup HTML Validator](https://validator.w3.org)
 
-<h2 align="center"><img src="readme/images/test_index.png" alt="test results image" width="650" height="200"></h2>
-<h2 align="center"><img src="readme/images/test_gallery.png" alt="test results image" width="650" height="125"></h2>
-<h2 align="center"><img src="readme/images/test_contact.png" alt="test results image" width="700" height="125"></h2>
+<h2 align="center"><img src="readme/images/test_index.png" alt="test results image" width="300" height="200"></h2>
+<h2 align="center"><img src="readme/images/test_gallery.png" alt="test results image" width="300" height="175"></h2>
+<h2 align="center"><img src="readme/images/test_contact.png" alt="test results image" width="300" height="200"></h2>
          
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
