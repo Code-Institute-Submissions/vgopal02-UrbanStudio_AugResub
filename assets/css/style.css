@@ -993,6 +993,10 @@ table, th, td , tr {
 	margin-bottom:30px;	
 }
 
+#subject {
+	height:170px;
+}
+
 .contact-right {
 	flex: 45%;
 	height: 850px;
