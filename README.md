@@ -100,8 +100,8 @@
 
 <h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section image" width="650" height="850"></h2>
 
-- In the meditation section the user introduced to the types of meditation the studio follows.
-    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - In the meditation section the user is introduced to the types of meditation the studio follows.
+    - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
     - Teachers profiles provides the user the level and experience of guidance they are to receive.
     - Following which the user is shown a clear weekday and week-end timetable of the meditation classes.
 <br>
