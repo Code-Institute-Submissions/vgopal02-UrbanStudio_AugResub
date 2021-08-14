@@ -16,6 +16,13 @@
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
+    -   #### Returning Visitor Goals
+
+        1. As a returning visitor , I want to be able to 
+        check the current information about type of classes offered and timetable .
+
+        
+
         -   ### Design
     -   #### Colour Scheme
        Colors were inspired by the brand logo ( tree of life) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
@@ -198,8 +205,23 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup HTML Validator](https://validator.w3.org)
+
+<h2 align="center"><img src="readme/images/test_index.png" alt="test results image" width="650" height="200"></h2>
+<h2 align="center"><img src="readme/images/test_gallery.png" alt="test results image" width="650" height="125"></h2>
+<h2 align="center"><img src="readme/images/test_contact.png" alt="test results image" width="700" height="125"></h2>
+         
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+            
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -221,12 +243,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <br>
 <br>
 
+ -   #### Returning Visitor Goals
+
+        1. As a returning visitor , I want to be able to 
+        check the current information about type of classes offered and timetable .
+
+             1. The site has been designed to make it easy to add and update information and images as required.
+
+            2. The site has been made robust enough to add more information without changing the layout. This ensures user experience remains consistent and user knows what to expect eveytime they visit the site. 
+
 ## Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX.
 -   Testing was done to ensure that all pages were linking correctly.
--   Friends and family members  across global locations ( US , India , Singpore and UK) were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   Friends and family members  across global locations  were asked to review the site and documentation to point out any bugs and/or user experience issues.
 <br>
 <br>
 
