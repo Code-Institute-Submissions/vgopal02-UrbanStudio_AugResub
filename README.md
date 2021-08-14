@@ -66,10 +66,11 @@
 - ## HOME PAGE
 <h2 align="center"><img src="readme/images/hp_1.png" alt="Homepage Screen Shot" width="650" height="800"></h2>
 
-- The user is welcomed into the site users are automatically greeted with a clean brand logo and social media links.
-- This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
-- Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users there is more details below the about-us section to which they may go directly.
-- The page is responsive on different device sizes.
+- Users are automatically greeted into the site with a clean brand logo and social media links.
+- This is followed with an easily readable navigation bar to go to the page of their choice. 
+- There is a Hero Image with brand text followed by an "About Us Section". 
+- Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users that there are more details below to which they may directly go .
+
 <br>
 <br>
 
