@@ -24,7 +24,7 @@
         
 
         -   ### Design
-    -   #### Colour Scheme
+    -   #### Color Scheme
        Colors were inspired by the brand logo ( tree of life) and  color palletes obtained from [colorcombos](https://www.colorcombos.com).
        <br>
         <img src="readme/images/wf_color.png" alt="image of color combination" width="700" height="300" img align="center"/>
