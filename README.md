@@ -2,7 +2,7 @@
 
 [View the live project here.](https://vgopal02.github.io/UrbanStudio/index.html)
 
-<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO. It has opened a studio which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , the site is designed to be accessible on a range of devices , making it easy to navigate for both younger and older potential clients.</p>
+<p style="justify">This is the main marketing website for a new wellness company called URBAN STUDIO, which offers- yoga , pilates and meditation in the upmarket suburb of Clapham in London. Clapham is a trendy suburb with young working professionals and older retired people - both of whom the studio hopes to appeal to. Therefore , the site is designed to be accessible on a range of devices , making it easy to navigate for both younger and older potential clients.</p>
 
 <h2 align="center"><img src="readme/images/wf_screenshot1.png" alt="Website Screen Shots" width="700" height="400"></h2>
 
@@ -35,10 +35,10 @@
         Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
 
     -   #### Typography
-        -   All headers are in Raleway and Josefin font is the main font used throughout the website. Sans Serif is used the fallback font. Both fonts frequently used on websites, are both attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.
+        -   All headers are in Raleway font. Josefin font is the main font used throughout the website. Sans Serif is used as the fallback font. Both fonts frequently used on websites, are attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.
 
     -   #### Imagery
-        -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in the gallery page where different age range people can be seen.
+        -   Imagery is important. It reflects the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetics without focussing on any one set of people , as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in the gallery page where different age range of people can be seen.
     <br>
     <br>
 
@@ -85,7 +85,7 @@
 
 - In the yoga section, the user is introduced to the core principles of yoga the studio follows.
 - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
-- Teachers profiles provides the user the level and experience of guidance they are to receive.
+- Teachers' profiles provides the user the level and experience of guidance they are to receive.
  - Following which the user is shown a clear weekday and week-end timetable of the yoga classes.
 <br>
 <br>
@@ -96,7 +96,7 @@
 
 - In the pilates section the user is introduced to the core principles of pilates the studio follows.
 - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
-- Teachers profiles provides the user the level and experience of guidance they are to receive.
+- Teachers' profiles provides the user the level and experience of guidance they are to receive.
 - Following which the user is shown a clear weekday and week-end timetable of the pilates classes.
 <br>
 <br>
@@ -106,7 +106,7 @@
 
 - In the meditation section the user is introduced to the types of meditation the studio follows.
 - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
-- Teachers profiles provides the user the level and experience of guidance they are to receive.
+- Teachers' profiles provides the user the level and experience of guidance they are to receive.
 - Following which the user is shown a clear weekday and week-end timetable of the meditation classes.
 <br>
 <br>
@@ -117,7 +117,7 @@
 - The gallery page reflects to the user the studio and its surroundings.
 - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio looks and the type of classes taught.
 - It indicates to the user of what to expect within the studio surroundings.   
-- The images chosen have been carefully curated to appeal to both younger and older auidence.
+- The images chosen have been carefully curated to appeal to both younger and older audience.
 <br>
 <br>
 
@@ -126,7 +126,7 @@
 
 - The contact us page allows the user to communicate with the studio.
 - The page allows the user to send a message to the studio which will be replied to.
-- Alternatively, the user has the address and telephone contacts of the studio to be be able to visit or call.    
+- Alternatively, the user has the address and telephone contacts of the studio to be able to visit or call.    
 <br>
 <br>
 
@@ -139,12 +139,12 @@
         <img src="readme/images/mr_2.png" alt="Iphone homepage image" width="200" height="400"/>
         </p>
 
--   The site has been made reponsive to different devices with varying widths   .
+-   The site has been made reponsive to different devices with varying widths.
 -   The Nav Bar gets converted to a hamburger menu as a responsive action in screen sizes with width of 600px and below for better user experience.
 -   The TYPES and TEACHERS containers in the  Yoga , Pilates and Meditation sections and the Contact Us Page containers becomes a column below 890px as a responsive action.
--   The TIMETABLE containers in the Yoga , Pilates and Meditation sections becomes a column format below 800px as a responsive actionfor better user experience. 
+-   The TIMETABLE containers in the Yoga , Pilates and Meditation sections becomes a column format below 800px as a responsive action for better user experience. 
 -   The image gallery becomes a column format below 1200px as a responsive action for better user experience.
--   The site is responsive to different browesers - Chrome , Safari and Firefox.
+-   The site is responsive to different browsers - Chrome , Safari and Firefox.
 
 
 <br>
@@ -162,8 +162,8 @@
 <br>
 
 - ## Section Consistency and Section Breaks
-    - The home page is divided into three key sections - Yoga , Pilates and Meditation. While information on each section varies user experience remains the same as each section remains consistent with the next.
-    - To ensure the user knows that they have come to the end of one section and starting a new one there are clear section line indicating the same.
+    - The home page is divided into three key sections - Yoga, Pilates and Meditation. While information on each section varies, user experience remains the same as each section remains consistent with the next.
+    - To ensure the user knows that they have come to the end of one section and starting a new one there is a clear section line indicating the same.
     - To maintain fluidity of site and ensure the user is not trapped the "Join Us" button in each section allows the user to go to the contact us page without having to scroll back to the top nav bar.
 <br>
 <br>
@@ -180,7 +180,7 @@
 <br>
 
 -   ## Typography
-    -   All headers are in Raleway and Josefin font is the main font used throughout the  website with Sans Serif as the fallback font . Both fonts are attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image.Minimum font size used across the site is  16px to ensure all text is clearl and visible based on [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
+    -   All headers are in Raleway . Josefin font is the main font used throughout the  website with Sans Serif as the fallback font . Both fonts are attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image.Minimum font size used across the site is  16px to ensure all text is clear and visible based on [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
 <br>
 <br>
     
@@ -236,7 +236,7 @@ The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to vali
         - This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section".        
         - Between the "Hero-Image" and "About Us' section there is also a small arrow which allows users to understand there is more details below the about-us section to which they may go directly.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily navigate the site to find content.
 
         - The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
         - Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
@@ -250,7 +250,7 @@ The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to vali
     4. As a First Time Visitor , I want to be able to contact the organisation to find out more details and join.
 
         - The Contact Us page allows the user to email the studio. Alternatively , the studio's address and phone contacts also allow them to either plan a visit or call the studio.
-        - Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
+        - Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
 <br>
 <br>
 
@@ -265,7 +265,7 @@ The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to vali
 <br>
 
 ## Further Testing
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Google Chrome, Firefox and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and Android devices.
 -   Testing was done to ensure that all pages were linking correctly.
 -   Friends and family members  across global locations  were asked to review the site and documentation to point out any bugs and/or user experience issues.
@@ -273,7 +273,7 @@ The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to vali
 <br>
 
 ## Design Challenges
-- The time-table section of the yoga , pilates and meditation section proved to be challenging to design especially on mobile devices. To ensure the whole timetable section was responsive on smaller devices the font size needed to be made as small as 8px. However , this goes against good practice as suggested by [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
+- The time-table section of the yoga , pilates and meditation section proved to be challenging to design especially on mobile devices. To ensure the whole timetable section was responsive on smaller devices the font size needed to be made as small as 8px. However , this goes against good design practice as suggested by [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
 
 - This was solved by creating two flexboxes instead of a single one and dividing the timetable into weekday and weekend sections. On smaller devices the two flex boxes go into a column format allowing the user to get the information clearly without having to compromise on the font size.
 <br>
