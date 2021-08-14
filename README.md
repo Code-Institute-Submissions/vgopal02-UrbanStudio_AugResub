@@ -112,10 +112,10 @@
 <h2 align="center"><img src="readme/images/gallery_1.png" alt="Gallery page Screen Shot" width="650" height="800"></h2>
 
 
-- The gallery page reflects to the user the studio and its surroundings.
-    - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio's look and the type of classes taught.
+    - The gallery page reflects to the user the studio and its surroundings.
+    - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio looks and the type of classes taught.
     - It indicates to the user of what to expect within the studio surroundings.
-    - The page is responsive on different device sizes.
+    
 <br>
 <br>
 
@@ -123,10 +123,10 @@
 
 <h2 align="center"><img src="readme/images/contact_1.png" alt="Contact Us page Screen Shot" width="650" height="800"></h2>
 
-- The contact us page allows the user to communicate with the studio.
+    - The contact us page allows the user to communicate with the studio.
     - The page allows the user to send a message to the studio which will be replied to.
-    - Alternatively, the user has adress and telephone contacts of the studio to be be able to visit or call.
-    - The page is responsive on different device sizes.
+    - Alternatively, the user has the address and telephone contacts of the studio to be be able to visit or call.
+    
 <br>
 <br>
 
