@@ -137,9 +137,10 @@
         </p>
 
 -   The site has been made reponsive to different devices with varying widths   .
--   The Nav Bar gets converted to a hamburger menu as a responsive action in screen sizes with width of 600px and below.
--   The TYPES and TEACHERS containers in the  Yoga , Pilates and Meditation sections become a column below 890px as a responsive action.
--   The TIMETABLE containers in the Yoga , Pilates and Meditation sections become a column format below 800px as a responsive action. 
+-   The Nav Bar gets converted to a hamburger menu as a responsive action in screen sizes with width of 600px and below for better user experience.
+-   The TYPES and TEACHERS containers in the  Yoga , Pilates and Meditation sections and the Contact Us Page containers becomes a column below 890px as a responsive action.
+-   The TIMETABLE containers in the Yoga , Pilates and Meditation sections becomes a column format below 800px as a responsive actionfor better user experience. 
+-   The image gallery becomes a column format below 1200px as a responsive action for better user experience.
 -   The site is responsive to different browesers - Chrome , Safari and Firefox.
 
 
