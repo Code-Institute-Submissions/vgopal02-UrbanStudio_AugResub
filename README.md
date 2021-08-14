@@ -146,8 +146,8 @@
 
  - ### Header and Footer
 
-<h2 align="center"><img src="readme/images/header.png" alt="header image" width="650" height="200"></h2>
-<h2 align="center"><img src="readme/images/footer.png" alt="footer image" width="650" height="125"></h2>
+<h2 align="center"><img src="readme/images/header.png" alt="header image" width="650" height="120"></h2>
+<h2 align="center"><img src="readme/images/footer.png" alt="footer image" width="650" height="100"></h2>
 
 
 
@@ -240,7 +240,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
         2. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to coonect to without having to scroll back upto the navigation bar.
         3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
-<br>
+
 <br>
 
  -   #### Returning Visitor Goals
@@ -255,7 +255,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and Android devices.
 -   Testing was done to ensure that all pages were linking correctly.
 -   Friends and family members  across global locations  were asked to review the site and documentation to point out any bugs and/or user experience issues.
 <br>
@@ -269,11 +269,10 @@ The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [Urban Studio](https://vgopal02.github.io/UrbanStudio/index.html) in the "GitHub Pages" section.
 
 
 ## Limitations and Future of the site
@@ -310,7 +309,7 @@ However this can be considered as a first step for the organisation. In future w
 
 -   All images were sourced from [Pexels](https://www.pexels.com) and [Unsplash] (https://www.unsplash.com)
 
-- Screen Shots were sourced from [AmIresponsive](ami.responsivedesign)
+- Screen Shots were sourced from [AmIresponsive](ami.responsivedesign) and screenshots through desktop.
 
 ### Inspiring Websites:
 - [YogaJournal](https://www.yogajournal.com/)
