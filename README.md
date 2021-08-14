@@ -46,24 +46,24 @@
 
 -   ## Site Map
     <p float="left">
-    <img src="readme/images/wf_site-map.png" alt="Home Page Wire Frame" width="400" height="400"/>
+    <img src="readme/images/wf_site-map.png" alt="Site Map Wire Frame" width="400" height="400"/>
 
 -  ## Home
     <p float="left">
     <img src="readme/images/wf_home.png" alt="Home Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="readme/images/wf_home_mr.png" alt="Home Page Wire Frame" width="200" height="400"/>
+    <img src="readme/images/wf_home_mr.png" alt="Home Page Mobile Wire Frame" width="200" height="400"/>
     </p>
 
 -  ## Gallery
     <p float="left">
     <img src="readme/images/wf_gallery.png" alt="Gallery Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Wire Frame" width="200" height="400"/>
+    <img src="readme/images/wf_gallery_mr.png" alt="Gallery Page Mobile Wire Frame" width="200" height="400"/>
     </p>
 
 -  ## Contact Us
     <p float="left">
     <img src="readme/images/wf_contact.png" alt="Contact Us Page Wire Frame" width="350" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Wire Frame" width="200" height="400"/>
+    <img src="readme/images/wf_contact_mr.png" alt="Contact Us Page Mobile Wire Frame" width="200" height="400"/>
     </p>
 <br>
 <br>
@@ -81,7 +81,7 @@
 <br>
 
 - ## Yoga Section
-<h2 align="center"><img src="readme/images/yoga_1.png" alt="yoga section image" width="650" height="850"></h2>
+<h2 align="center"><img src="readme/images/yoga_1.png" alt="yoga section screenshot" width="650" height="850"></h2>
 
 - In the yoga section, the user is introduced to the core principles of yoga the studio follows.
 - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
@@ -91,7 +91,7 @@
 <br>
 
 - ## Pilates Section
-<h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section image" width="650" height="850"></h2>
+<h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section screenshot" width="650" height="850"></h2>
 
 
 - In the pilates section the user is introduced to the core principles of pilates the studio follows.
@@ -102,7 +102,7 @@
 <br>
 
 - ## Meditation Section
-<h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section image" width="650" height="850"></h2>
+<h2 align="center"><img src="readme/images/meditate_1.png" alt="meditate section screenshot" width="650" height="850"></h2>
 
 - In the meditation section the user is introduced to the types of meditation the studio follows.
 - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
@@ -134,7 +134,7 @@
 
 - ## Mobile Responsive
 <p float="left">
-        <img src="readme/images/mr_1.png" alt="Android homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="readme/images/mr_1.png" alt="Android phone homepage image" width="200" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="readme/images/mr_3.png" alt="Ipad homepage image" width="320" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="readme/images/mr_2.png" alt="Iphone homepage image" width="200" height="400"/>
         </p>
@@ -150,8 +150,8 @@
 <br>
 
  - ## Header and Footer
-<h2 align="center"><img src="readme/images/header.png" alt="header image" width="650" height="120"></h2>
-<h2 align="center"><img src="readme/images/footer.png" alt="footer image" width="650" height="100"></h2>
+<h2 align="center"><img src="readme/images/header.png" alt="site header image" width="650" height="120"></h2>
+<h2 align="center"><img src="readme/images/footer.png" alt="site footer image" width="650" height="100"></h2>
 <br>    
 
 -   The Header and Footer are used consistently in each page so the user knows exactly what to expect and for seemless navigation.
@@ -210,9 +210,9 @@ The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to vali
 
 -   [W3C Markup HTML Validator](https://validator.w3.org)
 
-<h2 align="center"><img src="readme/images/test_index.png" alt="test results image" width="300" height="200"></h2>
-<h2 align="center"><img src="readme/images/test_gallery.png" alt="test results image" width="300" height="175"></h2>
-<h2 align="center"><img src="readme/images/test_contact.png" alt="test results image" width="300" height="200"></h2>
+<h2 align="center"><img src="readme/images/test_index.png" alt="html test results image" width="300" height="200"></h2>
+<h2 align="center"><img src="readme/images/test_gallery.png" alt="html test results image" width="300" height="175"></h2>
+<h2 align="center"><img src="readme/images/test_contact.png" alt="html test results image" width="300" height="200"></h2>
          
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
