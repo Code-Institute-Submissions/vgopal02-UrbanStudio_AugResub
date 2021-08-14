@@ -78,7 +78,7 @@
 <h2 align="center"><img src="readme/images/yoga_1.png" alt="yoga section image" width="650" height="850"></h2>
 
     - In the yoga section, the user is introduced to the core principles of yoga the studio follows.
-    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
     - Teachers profiles provides the user the level and experience of guidance they are to receive.
     - Following which the user is shown a clear weekday and week-end timetable of the yoga classes.
 <br>
@@ -89,10 +89,10 @@
 <h2 align="center"><img src="readme/images/pilates_1.png" alt="pilates section image" width="650" height="850"></h2>
 
 
-- In the pilates section the user introduced to the core principle of pilates the studio follows.
-    - This is followed by easily readable sub-section conveying the different levels and styles offered. 
+    - In the pilates section the user is introduced to the core principles of pilates the studio follows.
+    - This is followed by an easily readable sub-section conveying the different levels and styles offered. 
     - Teachers profiles provides the user the level and experience of guidance they are to receive.
-    - Following which the user is shown a clear weekday and week-end timetable of the pilatesclasses.
+    - Following which the user is shown a clear weekday and week-end timetable of the pilates classes.
 <br>
 <br>
 
