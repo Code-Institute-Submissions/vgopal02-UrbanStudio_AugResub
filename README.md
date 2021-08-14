@@ -32,10 +32,10 @@
         Final Colors used : rgb(75, 94, 42);rgb(214, 210, 188);rgb(202, 209, 190);rgba(221, 6, 53,);rgb(245, 218, 223); rgb(224, 214, 185);
 
     -   #### Typography
-        -   All headers are in Raleway and Josefin font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly. Both fonts are frequently used on websites, are both attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font in case for any reason the font is not being imported into the site correctly .
+        -   All headers are in Raleway and Josefin font is the main font used throughout the website. Sans Serif is used the fallback font. Both fonts frequently used on websites, are both attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.
 
     -   #### Imagery
-        -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where differnt age range people can be seen.
+        -   Imagery is important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image is designed to catch the user's attention. It also has a modern, energetic aesthetic without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in the gallery page where different age range people can be seen.
        
         -  ### Wireframes 
     
