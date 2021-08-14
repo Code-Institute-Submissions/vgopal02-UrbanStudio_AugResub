@@ -117,6 +117,7 @@
 - The gallery page reflects to the user the studio and its surroundings.
 - Using the adage " a picture speaks a thousand words" the gallery page gives the user a virtual experience of how the studio looks and the type of classes taught.
 - It indicates to the user of what to expect within the studio surroundings.   
+- The images chosen have been carefully curated to appeal to both younger and older auidence.
 <br>
 <br>
 
@@ -179,7 +180,7 @@
 <br>
 
 -   ## Typography
-    -   All headers are in Raleway and Josefin font is the main font used throughout the  website with Sans Serif as the fallback font . Both fonts are attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image. - - Minimum font size used across the site is  16px to ensure all text is clearl and visible based on [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
+    -   All headers are in Raleway and Josefin font is the main font used throughout the  website with Sans Serif as the fallback font . Both fonts are attractive and reflective of the brand.Dancing Script has been used in the cover text on the hero image.Minimum font size used across the site is  16px to ensure all text is clearl and visible based on [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
 <br>
 <br>
     
@@ -205,7 +206,7 @@
 
 # Code Testing and Validation
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C Jigsaw CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup HTML Validator](https://validator.w3.org)
 
@@ -274,7 +275,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Design Challenges
 - The time-table section of the yoga , pilates and meditation section proved to be challenging to design especially on mobile devices. To ensure the whole timetable section was responsive on smaller devices the font size needed to be made as small as 8px. However , this goes against good practice as suggested by [The Responsive Website font guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html).
 
-- This was solved by creating two flexboxes instead of a single one and dividing the timetable into weekday and weekend sections. On smaller devices the two flex boxes go into a column format allowing the user to get the information clearly.without having to compromise on the font size.
+- This was solved by creating two flexboxes instead of a single one and dividing the timetable into weekday and weekend sections. On smaller devices the two flex boxes go into a column format allowing the user to get the information clearly without having to compromise on the font size.
 <br>
 <br>
 
