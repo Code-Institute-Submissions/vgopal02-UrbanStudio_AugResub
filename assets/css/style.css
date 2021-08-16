@@ -233,7 +233,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:700px) {
-
 	#cover-text {
 		text-align: center;
 		font-size: 32px;
@@ -251,7 +250,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:412px) {
-
 	#cover-text {
 		text-align: center;
 		font-size: 26px;
@@ -259,26 +257,21 @@ input[type=checkbox],
 		top: 620px;
 		padding: 2%;
 	}
-
 }
 
 @media screen and (max-width:360px) {
-
 	#cover-text {
 		font-size: 22px;
 		height: 8%;
 		top: 620px;
 		padding: 2%;
 	}
-
 }
 
 @media screen and (max-width:300px) {
-
 	#cover-text {
 		height: 12%;
 	}
-
 }
 
 /* Scroll Down Arrow */
@@ -332,7 +325,6 @@ input[type=checkbox],
 
 /* About Us Section - Mobile responsive media queries */
 @media screen and (max-width:1200px) {
-	
 	.about-container >div {
 		font-size: 120%;
 		height: 80%;
@@ -340,7 +332,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:855px) {
-	
 	.about-container {
 		height: 350px;
 	}
@@ -353,7 +344,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:500px) {
-	
 	.about-container>div {
 		font-size: 17px;
 		height: 180px;
@@ -364,7 +354,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:390px) {
-	
 	.about-container >div {
 		font-size: 16px;
 		height: 180px;
@@ -378,7 +367,6 @@ input[type=checkbox],
 }
 
 @media screen and (max-width:300px){
-	
 	.about-container {
 		height: 445px;
 	}
@@ -443,7 +431,6 @@ input[type=checkbox],
 
 /* Yoga Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
 @media (max-width: 890px) {
-
 	.yoga-right,
 	.yoga-left {
 		flex: 100%;
@@ -466,7 +453,6 @@ input[type=checkbox],
 }
 
 @media (max-width: 525px) {
-	
 	.yoga-left {
 			height: 650px;
 			font-size: 18px;
@@ -478,21 +464,17 @@ input[type=checkbox],
 }
 	
 @media (max-width: 450px) {
-	
 	.yoga-intro {
 			height:130px;
 		}
 		
-
-		.yoga-intro >p {
+	.yoga-intro >p {
 			text-align: justify;
 			font-size: 18px;
 		}
-
 }
 
 @media (max-width: 425px) {
-
 		.yoga-intro {
 			height:150px;
 		}
@@ -511,16 +493,13 @@ input[type=checkbox],
 			height:700px;
 			font-size:16px;
 		}
-
 }
 
 @media (max-width: 300px) {
-
 		.yoga-right {
 			height:800px;
 			font-size:16px;
 		}
-
 }
 
 
@@ -542,7 +521,6 @@ input[type=checkbox],
 }
 
 .contact-us a:hover {
-
 	border-bottom: 1px solid red;
 	color: blueviolet;
 }
@@ -558,13 +536,10 @@ input[type=checkbox],
 
 /* Join Us link - Yoga , Pilates and Meditation Section - Mobile Responsive media query */
 @media (max-width: 800px) {
-
 	.contact-us {
 		margin-left: 38%;
 	}
-
 }
-
 
 /* Pilates Information Section */
 #pilates {
@@ -615,13 +590,11 @@ input[type=checkbox],
 	float: left;
 	margin-right: 10px;
 	border: 2px solid green;
-	object-fit: cover;
-	
+	object-fit: cover;	
 }
 
 /* Pilates Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
 @media (max-width: 890px) {
-
 	.pilates-right,
 	.pilates-left {
 		flex: 100%;
@@ -637,15 +610,13 @@ input[type=checkbox],
 }
 
 @media (max-width: 615px) {
-.pilates-right,
+	.pilates-right,
 	.pilates-left {
-		
 		height: 600px;
 	}
 }
 
-@media (max-width: 525px) {
-	
+@media (max-width: 525px) {	
 		.pilates-left {
 			height: 650px;
 			font-size: 18px;
@@ -654,20 +625,18 @@ input[type=checkbox],
 			height: 675px;
 			font-size: 18px;
 		}
-	}
+}
 	
 @media (max-width: 450px) {
 		.pilates-intro {
 			height:130px;
 		}
 		
-
 		.pilates-intro >p {
 			text-align: justify;
 			font-size: 18px;
 		}
-
-	}
+}
 
 @media (max-width: 425px) {
 		.pilates-intro {
@@ -688,7 +657,6 @@ input[type=checkbox],
 			height:700px;
 			font-size:16px;
 		}
-
 }
 
 @media (max-width: 300px) {
@@ -753,7 +721,6 @@ input[type=checkbox],
 
  /* Meditation Information Section - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts font-size */
  @media (max-width: 890px) {
-
 	.meditation-right,
 	.meditation-left {
 		flex: 100%;
@@ -785,7 +752,7 @@ input[type=checkbox],
 			height: 675px;
 			font-size: 18px;
 		}
-	}
+}
 	
 @media (max-width: 450px) {
 		.meditation-intro {
@@ -798,7 +765,7 @@ input[type=checkbox],
 			font-size: 18px;
 		}
 
-	}
+}
 
 @media (max-width: 425px) {
 		.meditation-intro {
@@ -819,7 +786,6 @@ input[type=checkbox],
 			height:700px;
 			font-size:16px;
 		}
-
 }
 
 @media (max-width: 300px) {
@@ -827,7 +793,6 @@ input[type=checkbox],
 			height:800px;
 			font-size:16px;
 		}
-
 }
 
 /* Footer */
@@ -851,18 +816,15 @@ footer >p {
 
 /* Footer - Mobile Responsive */
 @media (max-width: 480px) {
-
 	footer {
 		height: 140px;
 	}
-
 }
 
 @media (max-width: 300px) {
 		footer {
 			height: 220px;
 		}
-
 }
 
 /* Yoga / Pilates / Meditation Time Table Section */
@@ -892,17 +854,14 @@ table, th, td , tr {
   }
 
 /* Yoga / Pilates / Meditation Time Table Section - Mobile Responsive*/
-  @media (max-width: 300px) {
-	
-	table, th, td ,tr {
-		
+  @media (max-width: 300px) {	
+	table, th, td ,tr {	
 	text-align: left;
 	align-items: center;
 	justify-content: center;
 	height:5px;
 	font-size:16px;
 	width:90%;
-
     }
 }
 
@@ -946,7 +905,6 @@ table, th, td , tr {
 
 /* GALLERY PAGE- Image Gallery Section - Mobile responsive - makes a one column-layout instead of a two-column layout */
 @media (max-width: 1200px) {
-
 	.flex-container {
 		flex-direction: column;
 	}
@@ -963,8 +921,7 @@ table, th, td , tr {
 		width: 80%;
 		height: 90%;
 		object-fit: contain;
-	}
-	
+	}	
 } 
 
 /* CONTACT US PAGE */
@@ -1042,7 +999,6 @@ input[type=submit] {
 
 /* CONTACT US PAGE - Mobile responsive - makes a one column-layout instead of a two-column layout and re-adjusts margin of "How to find us section" */
 @media (max-width: 890px) {
-
 	.contact-right,
 	.contact-left {
 		flex: 100%;
@@ -1064,7 +1020,6 @@ input[type=submit] {
 }
 
 @media (max-width: 500px) {
-
 	.contact-right>img {
 		margin-left: 10px;
 	}
@@ -1082,15 +1037,14 @@ input[type=submit] {
 	} 
 
 }
-@media (max-width: 280px) {
 
+@media (max-width: 280px) {
 	input[type="radio"] {
 		margin-left: 2px;
 	}
 
 	input[type=submit] {
 		width: 180px;
-	
 	}
 }
 
